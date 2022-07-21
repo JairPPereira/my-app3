@@ -10,38 +10,6 @@ export default function Acao() {
 
         <nav>
       <p><br /></p>
-      <Link to="./2067">2067</Link>
-      <p><br /></p>
-      <Link to="./Acasadomedo">A casa do medo</Link>
-      <p><br /></p>
-      <Link to="./Acertodecontas">Acerto de contas</Link>
-      <p><br /></p>
-      <Link to="./Aformadaagua">Aforma da agua</Link>
-      <p><br /></p>
-      <Link to="./Agoraestamossos">Agora estamos sos</Link>
-      <p><br /></p>
-      <Link to="./Airplanevsvolcano">Airplane vs volcano</Link>
-      <p><br /></p>
-      <Link to="./Ajusticeira">A justiceira</Link>
-      <p><br /></p>
-      <Link to="./Albertnobbs">Albert Nobbs</Link>
-      <p><br /></p>
-      <Link to="./Alemdohorizonte">Além do horizonte</Link>
-      <p><br /></p>
-      <Link to="./Alendadjj">A lenda de Jack e Jill</Link>
-      <p><br /></p>
-      <Link to="./Amorzumbi">Amor Zumbi</Link>
-      <p><br /></p>
-      <Link to="./Anjosdanoite">Anjos da noite</Link>
-      <p><br /></p>
-      <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
-      <p><br /></p>
-      <Link to="./Aqualquerpreco">A qualquer preço</Link>
-      <p><br /></p>
-      <Link to="./Assasinatosdopassado">Assasinatos do passado</Link>
-      <p><br /></p>
-      <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
-      <p><br /></p>
       <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
       <p><br /></p>
       <Link to="./Bloodrayne3">Bloodrayne 3</Link>
