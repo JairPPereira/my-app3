@@ -8,7 +8,7 @@ class Ascensaoeqdui extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/494_pluto/clip/627e8369b55dbf0013581eaf_House_of_Bodies_BR/720p/20220513_091226/hls/0-end/master.m3u8",
+            src: "https://siloh.pluto.tv/820_pluto/clip/6272df8fb55dbf001353a231_Empire_of_Lust_BR/720p/20220504_131823/hls/0-end/master.m3u8",
 
             poster: ""
         }
