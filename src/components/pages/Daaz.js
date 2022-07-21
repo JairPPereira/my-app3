@@ -38,6 +38,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Aqualquerpreco">A qualquer preço</Link>
       <p><br /></p>
+      <Link to="./Ascensaoeqdui">Ascensão e queda de um império</Link>
+      <p><br /></p>
       <Link to="./Assasinatosdopassado">Assasinatos do passado</Link>
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
