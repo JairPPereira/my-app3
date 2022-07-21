@@ -10,9 +10,9 @@ export default function Porcategoria() {
       
 <nav>
       <p><br /></p>
-      <Link to="./Aparelhagens">Aparelhagens</Link>
+      <Link to="./Acao">Açao</Link>
       <p><br /></p>
-      <Link to="./Atualidade">Atualidade</Link>
+      <Link to="./Comedia">Comedia</Link>
       <p><br /></p>
       <Link to="./Diario">Diario FM</Link>
 
