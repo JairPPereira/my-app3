@@ -80,6 +80,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
       <p><br /></p>
+      <Link to="./Homemaranha2">Homem Aranha 2</Link>
+      <p><br /></p>
       <Link to="./Hoteldosdinossauros">Hotel dos dinossauros</Link>
       <p><br /></p>
       <Link to="./Jesuskid">Jesus Kid</Link>
@@ -129,6 +131,8 @@ export default function Daaz() {
       <Link to="./Sextafeira13">Sexta feira 13</Link>
       <p><br /></p>
       <Link to="./Sonic">Sonic</Link>
+      <p><br /></p>
+      <Link to="./Supermurali">Super Murali</Link>
       <p><br /></p>
       <Link to="./Tempo">Tempo</Link>
       <p><br /></p>

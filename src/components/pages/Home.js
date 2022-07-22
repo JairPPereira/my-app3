@@ -12,7 +12,7 @@ export default function Home() {
       <div className="nave">
         <nav>
         <p><br /></p>
-        <Link to="/Daaz">De A a Z</Link>
+        <Link to="/Daaz">Filmes de A a Z</Link>
         <p><br /></p>
         <Link to="/Porcategoria">Por categoria</Link>
         <p><br /></p>

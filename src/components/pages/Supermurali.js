@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Homemaranha2 extends Component {
+class Supermurali extends Component {
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_b38186dc3c394b90bccd7bf46b306665/720p/mp4/file.mp4",
+            src: "https://video.wixstatic.com/video/e16db6_2aea825045e640a1ae6daea9226eb37f/720p/mp4/file.mp4",
 
             poster: ""
         }
@@ -74,4 +74,4 @@ class Homemaranha2 extends Component {
         );
     }
 }
-export default Homemaranha2;
+export default Supermurali;
