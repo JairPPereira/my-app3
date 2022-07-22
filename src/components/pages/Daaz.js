@@ -132,6 +132,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Sonic">Sonic</Link>
       <p><br /></p>
+      <Link to="./Stretfp">Street Figher Punho assasino</Link>
+      <p><br /></p>
       <Link to="./Supermurali">Super Murali</Link>
       <p><br /></p>
       <Link to="./Tempo">Tempo</Link>

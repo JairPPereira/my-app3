@@ -93,6 +93,7 @@ import Homemaranha2 from './components/pages/Homemaranha2';
 import Supermurali from './components/pages/Supermurali';
 import Terror from './components/pages/Terror';
 import Suspense1 from './components/pages/Suspense1';
+import Stretfp from './components/pages/Stretfp';
 
 
 
@@ -193,6 +194,7 @@ function App() {
         <Route path='/supermurali' component={Supermurali} />
         <Route path='/terror' component={Terror} />
         <Route path='/supense1' component={Suspense1} />
+        <Route path='/stretfp' component={Stretfp} />
 
 
 

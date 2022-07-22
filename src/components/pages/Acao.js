@@ -28,6 +28,8 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Relacaoexplosiva">Relação explosiva</Link>
       <p><br /></p>
+      <Link to="./Stretfp">Street Figher Punho assasino</Link>
+      <p><br /></p>
       <Link to="./Umnegocioderisco">Um negocio de risco</Link>
       <p><br /></p>
       <Link to="./Umpobretaoncsb">Um pobretão na Casa Branca</Link>
