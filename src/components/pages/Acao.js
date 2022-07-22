@@ -10,15 +10,11 @@ export default function Acao() {
 
         <nav>
       <p><br /></p>
-      <Link to="./2067">2067</Link>
-      <p><br /></p>
       <Link to="./Acasadomedo">A casa do medo</Link>
       <p><br /></p>
       <Link to="./Acertodecontas">Acerto de contas</Link>
       <p><br /></p>
       <Link to="./Agoraestamossos">Agora estamos sos</Link>
-      <p><br /></p>
-      <Link to="./Airplanevsvolcano">Airplane vs volcano</Link>
       <p><br /></p>
       <Link to="./Alemdohorizonte">Além do horizonte</Link>
       <p><br /></p>
@@ -46,27 +42,17 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Codigodeconduta">Codigo de conduta</Link>
       <p><br /></p>
-      <Link to="./Cosmopolis">Cosmopolis</Link>
-      <p><br /></p>
       <Link to="./Criatura">Criatura</Link>
       <p><br /></p>
-      <Link to="./Cubo">Cubo</Link>
-      <p><br /></p>
       <Link to="./Distrito13o">Distrito 13 o ultimato</Link>
-      <p><br /></p>
-      <Link to="./Duna">Duna</Link>
       <p><br /></p>
       <Link to="./Embuscadevinganca">Em busca de vingança</Link>
       <p><br /></p>
       <Link to="./Entreirmaos">Entre irmãos</Link>
       <p><br /></p>
-      <Link to="./Finch">Finch</Link>
-      <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
-      <p><br /></p>
-      <Link to="./Hoteldosdinossauros">Hotel dos dinossauros</Link>
       <p><br /></p>
       <Link to="./Mariasangrenta">Maria Sangrenta</Link>
       <p><br /></p>
@@ -97,8 +83,6 @@ export default function Acao() {
       <Link to="./Osmercenarios2">Os mercenarios 2</Link>
       <p><br /></p>
       <Link to="./Psicopataamericano2">Psicopata americano 2</Link>
-      <p><br /></p>
-      <Link to="./Re1sident">Resident Evil 6</Link>
       <p><br /></p>
       <Link to="./Residentevilbem">Resident Evil Bem vindo a Raccoon city</Link>
       <p><br /></p>
