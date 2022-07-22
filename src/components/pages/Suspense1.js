@@ -2,11 +2,11 @@ import React from 'react';
 import '../../App.css';
 import {Link } from "react-router-dom";
 
-export default function Suspense() {
+export default function Suspense1() {
 
   return (
     <>
-      <h1 className='suspense'>
+      <h1 className='suspense1'>
 
         <nav>
       <p><br /></p>

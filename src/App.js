@@ -92,7 +92,7 @@ import Ascensaoeqdui from './components/pages/Ascensaoeqdui';
 import Homemaranha2 from './components/pages/Homemaranha2';
 import Supermurali from './components/pages/Supermurali';
 import Terror from './components/pages/Terror';
-import Suspense from './components/pages/Suspense';
+import Suspense1 from './components/pages/Suspense1';
 
 
 
@@ -192,6 +192,7 @@ function App() {
         <Route path='/homemaranha2' component={Homemaranha2} />
         <Route path='/supermurali' component={Supermurali} />
         <Route path='/terror' component={Terror} />
+        <Route path='/supense1' component={Suspense1} />
 
 
 
