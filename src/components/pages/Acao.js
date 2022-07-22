@@ -6,7 +6,7 @@ export default function Acao() {
 
   return (
     <>
-      <h1 className='Acao'>
+      <h1 className='acao'>
 
         <nav>
       <p><br /></p>
