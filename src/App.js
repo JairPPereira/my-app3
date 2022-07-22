@@ -94,6 +94,7 @@ import Supermurali from './components/pages/Supermurali';
 import Terror from './components/pages/Terror';
 import Suspense1 from './components/pages/Suspense1';
 import Stretfp from './components/pages/Stretfp';
+import Codinome7 from './components/pages/Codinome7';
 
 
 
@@ -195,6 +196,7 @@ function App() {
         <Route path='/terror' component={Terror} />
         <Route path='/supense1' component={Suspense1} />
         <Route path='/stretfp' component={Stretfp} />
+        <Route path='/codinome7' component={Codinome7} />
 
 
 

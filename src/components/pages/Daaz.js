@@ -56,6 +56,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Codigodeconduta">Codigo de conduta</Link>
       <p><br /></p>
+      <Link to="./Codinome7">Codinome Cassius 7</Link>
+      <p><br /></p>
       <Link to="./Coragemparaamar">Coragem para amar</Link>
       <p><br /></p>
       <Link to="./Cosmopolis">Cosmopolis</Link>
