@@ -3,7 +3,6 @@ import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
-
  
 class A2067 extends Component {
     player = {}
