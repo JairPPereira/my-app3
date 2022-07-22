@@ -44,10 +44,6 @@ export default function Comedia() {
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
       <p><br /></p>
-      <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
-      <p><br /></p>
-      <Link to="./Bloodrayne3">Bloodrayne 3</Link>
-      <p><br /></p>
       <Link to="./Cacadoresderecompensas">Caçadores de recompensas</Link>
       <p><br /></p>
       <Link to="./Cargaexplosiva3">Carga explosiva 3</Link>
@@ -78,8 +74,6 @@ export default function Comedia() {
       <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
       <p><br /></p>
-      <Link to="./Homemaranha">Homem Aranha</Link>
-      <p><br /></p>
       <Link to="./Hoteldosdinossauros">Hotel dos dinossauros</Link>
       <p><br /></p>
       <Link to="./Jesuskid">Jesus Kid</Link>
@@ -96,13 +90,9 @@ export default function Comedia() {
       <p><br /></p>
       <Link to="./Ocaminho">O caminho</Link>
       <p><br /></p>
-      <Link to="./Ocladasadagas">O Clã das adagas</Link>
-      <p><br /></p>
       <Link to="./Ocontodoscontos">O Conto dos contos</Link>
       <p><br /></p>
       <Link to="./Odespertar">O despertar</Link>
-      <p><br /></p>
-      <Link to="./Ohomemdamafia">O homem da mafia</Link>
       <p><br /></p>
       <Link to="./Oimbativelreden">O imbativel Redenção</Link>
       <p><br /></p>
@@ -122,13 +112,9 @@ export default function Comedia() {
       <p><br /></p>
       <Link to="./Redencao">Redenção</Link>
       <p><br /></p>
-      <Link to="./Relacaoexplosiva">Relação explosiva</Link>
-      <p><br /></p>
       <Link to="./Ruslan">Ruslan</Link>
       <p><br /></p>
       <Link to="./Sextafeira13">Sexta feira 13</Link>
-      <p><br /></p>
-      <Link to="./Sonic">Sonic</Link>
       <p><br /></p>
       <Link to="./Tempo">Tempo</Link>
       <p><br /></p>
@@ -137,8 +123,6 @@ export default function Comedia() {
       <Link to="./Ummatchsurpresa">Um match surpresa</Link>
       <p><br /></p>
       <Link to="./Ummotoristaemapuros">Um motorista em apuros</Link>
-      <p><br /></p>
-      <Link to="./Umnegocioderisco">Um negocio de risco</Link>
       <p><br /></p>
       <Link to="./Umpobretaoncsb">Um pobretão na Casa Branca</Link>
 
