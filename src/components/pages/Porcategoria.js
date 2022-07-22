@@ -15,6 +15,8 @@ export default function Porcategoria() {
       <Link to="./Comedia">Comedia</Link>
       <p><br /></p>
       <Link to="./Ficcao">Ficção</Link>
+      <p><br /></p>
+      <Link to="./Romance">Romance</Link>
 
      
       </nav></h1>
