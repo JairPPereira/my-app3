@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import Navbar from './components/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
@@ -91,6 +91,8 @@ import Umpobretaoncsb from './components/pages/Umpobretaoncsb';
 import Ascensaoeqdui from './components/pages/Ascensaoeqdui';
 import Homemaranha2 from './components/pages/Homemaranha2';
 import Supermurali from './components/pages/Supermurali';
+import Terror from './components/pages/Terror';
+
 
 
 
@@ -188,6 +190,9 @@ function App() {
         <Route path='/ascensaoeqdui' component={Ascensaoeqdui} />
         <Route path='/homemaranha2' component={Homemaranha2} />
         <Route path='/supermurali' component={Supermurali} />
+        <Route path='/terror' component={Terror} />
+
+        
 
 
         

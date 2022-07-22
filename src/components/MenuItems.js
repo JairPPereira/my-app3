@@ -18,5 +18,10 @@ export const MenuItems = [
     title: 'Romance',
     path: '/romance',
     cName: 'dropdown-link'
+  },
+  {
+    title: 'Terror',
+    path: '/terror',
+    cName: 'dropdown-link'
   }
 ];
