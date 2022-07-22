@@ -16,15 +16,9 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Acertodecontas">Acerto de contas</Link>
       <p><br /></p>
-      <Link to="./Aformadaagua">Aforma da agua</Link>
-      <p><br /></p>
       <Link to="./Agoraestamossos">Agora estamos sos</Link>
       <p><br /></p>
       <Link to="./Airplanevsvolcano">Airplane vs volcano</Link>
-      <p><br /></p>
-      <Link to="./Ajusticeira">A justiceira</Link>
-      <p><br /></p>
-      <Link to="./Albertnobbs">Albert Nobbs</Link>
       <p><br /></p>
       <Link to="./Alemdohorizonte">Além do horizonte</Link>
       <p><br /></p>
@@ -33,8 +27,6 @@ export default function Acao() {
       <Link to="./Amorzumbi">Amor Zumbi</Link>
       <p><br /></p>
       <Link to="./Anjosdanoite">Anjos da noite</Link>
-      <p><br /></p>
-      <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
       <Link to="./Aqualquerpreco">A qualquer preço</Link>
       <p><br /></p>
@@ -52,11 +44,7 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Cargaexplosiva3">Carga explosiva 3</Link>
       <p><br /></p>
-      <Link to="./Chef">Chef</Link>
-      <p><br /></p>
       <Link to="./Codigodeconduta">Codigo de conduta</Link>
-      <p><br /></p>
-      <Link to="./Coragemparaamar">Coragem para amar</Link>
       <p><br /></p>
       <Link to="./Cosmopolis">Cosmopolis</Link>
       <p><br /></p>
@@ -72,8 +60,6 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Entreirmaos">Entre irmãos</Link>
       <p><br /></p>
-      <Link to="./Entreoamoreafama">Entre o amor e a fama</Link>
-      <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
@@ -82,13 +68,9 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Hoteldosdinossauros">Hotel dos dinossauros</Link>
       <p><br /></p>
-      <Link to="./Jesuskid">Jesus Kid</Link>
-      <p><br /></p>
       <Link to="./Mariasangrenta">Maria Sangrenta</Link>
       <p><br /></p>
       <Link to="./Megalodon">Megalodon</Link>
-      <p><br /></p>
-      <Link to="./Minhamaeeumaviagem">Minha mãe é uma viagem</Link>
       <p><br /></p>
       <Link to="./Necroterio">Necrotério</Link>
       <p><br /></p>
@@ -131,12 +113,6 @@ export default function Acao() {
       <Link to="./Sonic">Sonic</Link>
       <p><br /></p>
       <Link to="./Tempo">Tempo</Link>
-      <p><br /></p>
-      <Link to="./Umamorprarecordar">Um amor pra recordar</Link>
-      <p><br /></p>
-      <Link to="./Ummatchsurpresa">Um match surpresa</Link>
-      <p><br /></p>
-      <Link to="./Ummotoristaemapuros">Um motorista em apuros</Link>
       <p><br /></p>
       <Link to="./Umnegocioderisco">Um negocio de risco</Link>
       <p><br /></p>
