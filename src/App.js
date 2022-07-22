@@ -95,6 +95,8 @@ import Terror from './components/pages/Terror';
 import Suspense1 from './components/pages/Suspense1';
 import Stretfp from './components/pages/Stretfp';
 import Codinome7 from './components/pages/Codinome7';
+import Umjovememapuros from './components/pages/Umjovememapuros';
+import Tudopraficarcomela from './components/pages/Tudopraficarcomela';
 
 
 
@@ -197,6 +199,8 @@ function App() {
         <Route path='/supense1' component={Suspense1} />
         <Route path='/stretfp' component={Stretfp} />
         <Route path='/codinome7' component={Codinome7} />
+        <Route path='/umjovememapuros' component={Umjovememapuros} />
+        <Route path='/tudopraficarcomela' component={Tudopraficarcomela} />
 
 
 

@@ -16,7 +16,11 @@ export default function Comedia() {
       <p><br /></p>
       <Link to="./Minhamaeeumaviagem">Minha mãe é uma viagem</Link>
       <p><br /></p>
+      <Link to="./Tudopraficarcomela">Tudo pra ficar com ela</Link>
+      <p><br /></p>
       <Link to="./Ummotoristaemapuros">Um motorista em apuros</Link>
+      <p><br /></p>
+      <Link to="./Umjovememapuros">Um jovem em apuros</Link>
       <p><br /></p>
       <Link to="./Umpobretaoncsb">Um pobretão na Casa Branca</Link>
 

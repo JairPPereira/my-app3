@@ -140,7 +140,11 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Tempo">Tempo</Link>
       <p><br /></p>
+      <Link to="./Tudopraficarcomela">Tudo pra ficar com ela</Link>
+      <p><br /></p>
       <Link to="./Umamorprarecordar">Um amor pra recordar</Link>
+      <p><br /></p>
+      <Link to="./Umjovememapuros">Um jovem em apuros</Link>
       <p><br /></p>
       <Link to="./Ummatchsurpresa">Um match surpresa</Link>
       <p><br /></p>
