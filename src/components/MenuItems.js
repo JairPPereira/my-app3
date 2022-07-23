@@ -10,6 +10,11 @@ export const MenuItems = [
     cName: 'dropdown-link'
   },
   {
+    title: 'Drama',
+    path: '/drama',
+    cName: 'dropdown-link'
+  },
+  {
     title: 'Ficcao',
     path: '/ficcao',
     cName: 'dropdown-link'

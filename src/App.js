@@ -105,6 +105,7 @@ import Cadaveresardm from './components/pages/Cadaveresardm';
 import Agentesduplos from './components/pages/Agentesduplos';
 import Aslaminasdje from './components/pages/Aslaminasdje';
 import Ogritodamorte from './components/pages/Ogritodamorte';
+import Drama from './components/pages/Drama';
 
 
 
@@ -217,6 +218,7 @@ function App() {
         <Route path='/agentesduplos' component={Agentesduplos} />
         <Route path='/aslaminasdje' component={Aslaminasdje} />
         <Route path='/ogritodamorte' component={Ogritodamorte} />
+        <Route path='/drama' component={Drama} />
 
 
 
