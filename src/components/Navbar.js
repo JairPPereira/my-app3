@@ -53,7 +53,7 @@ function Navbar() {
               className='nav-links'
               onClick={closeMobileMenu}
             >
-              Filmes Por Categoria <i className='fas fa-caret-down' />
+              Filmes Por Categoria<i className='fas fa-caret-down' />
             </Link>
             {dropdown && <Dropdown />}
           </li>
