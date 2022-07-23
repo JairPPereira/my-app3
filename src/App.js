@@ -97,6 +97,8 @@ import Stretfp from './components/pages/Stretfp';
 import Codinome7 from './components/pages/Codinome7';
 import Umjovememapuros from './components/pages/Umjovememapuros';
 import Tudopraficarcomela from './components/pages/Tudopraficarcomela';
+import Odoadordememorias from './components/pages/Odoadordememorias';
+import Atumbadodiabo from './components/pages/Atumbadodiabo';
 
 
 
@@ -201,6 +203,8 @@ function App() {
         <Route path='/codinome7' component={Codinome7} />
         <Route path='/umjovememapuros' component={Umjovememapuros} />
         <Route path='/tudopraficarcomela' component={Tudopraficarcomela} />
+        <Route path='/odoadordememorias' component={Odoadordememorias} />
+        <Route path='/atumbadodiabo' component={Atumbadodiabo} />
 
 
 

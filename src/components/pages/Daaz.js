@@ -44,6 +44,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
       <p><br /></p>
+      <Link to="./Atumbadodiabo">A tumba do Diabo</Link>
+      <p><br /></p>
       <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
       <p><br /></p>
       <Link to="./Bloodrayne3">Bloodrayne 3</Link>
@@ -105,6 +107,8 @@ export default function Daaz() {
       <Link to="./Ocontodoscontos">O Conto dos contos</Link>
       <p><br /></p>
       <Link to="./Odespertar">O despertar</Link>
+      <p><br /></p>
+      <Link to="./Odoadordememorias">O doador de memorias</Link>
       <p><br /></p>
       <Link to="./Ohomemdamafia">O homem da mafia</Link>
       <p><br /></p>
