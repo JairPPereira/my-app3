@@ -18,6 +18,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Aformadaagua">Aforma da agua</Link>
       <p><br /></p>
+      <Link to="./Agentesduplos">Agentes duplos</Link>
+      <p><br /></p>
       <Link to="./Agoraestamossos">Agora estamos sos</Link>
       <p><br /></p>
       <Link to="./Airplanevsvolcano">Airplane vs volcano</Link>
@@ -51,6 +53,8 @@ export default function Daaz() {
       <Link to="./Bloodrayne3">Bloodrayne 3</Link>
       <p><br /></p>
       <Link to="./Cacadoresderecompensas">Caçadores de recompensas</Link>
+      <p><br /></p>
+      <Link to="./Cadaveresardm">Cadáveres a reunião dos mortos</Link>
       <p><br /></p>
       <Link to="./Cargaexplosiva3">Carga explosiva 3</Link>
       <p><br /></p>

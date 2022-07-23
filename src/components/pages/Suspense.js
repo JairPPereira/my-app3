@@ -10,9 +10,13 @@ export default function Suspense() {
 
         <nav>
       <p><br /></p>
+      <Link to="./Agentesduplos">Agentes duplos</Link>
+      <p><br /></p>
       <Link to="./Assasinatosdopassado">Assasinatos do passado</Link>
       <p><br /></p>
       <Link to="./Codigodeconduta">Codigo de conduta</Link>
+      <p><br /></p>
+      <Link to="./Cadaveresardm">Cadáveres a reunião dos mortos</Link>
       <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
       <p><br /></p>

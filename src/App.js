@@ -101,6 +101,8 @@ import Odoadordememorias from './components/pages/Odoadordememorias';
 import Atumbadodiabo from './components/pages/Atumbadodiabo';
 import Jogandocomoamor from './components/pages/Jogandocomoamor';
 import Loucamenteapaixonados from './components/pages/Loucamenteapaixonados';
+import Cadaveresardm from './components/pages/Cadaveresardm';
+import Agentesduplos from './components/pages/Agentesduplos';
 
 
 
@@ -209,6 +211,8 @@ function App() {
         <Route path='/atumbadodiabo' component={Atumbadodiabo} />
         <Route path='/jogandocomoamor' component={Jogandocomoamor} />
         <Route path='/loucamenteapaixonados' component={Loucamenteapaixonados} />
+        <Route path='/cadaveresardm' component={Cadaveresardm} />
+        <Route path='/agentesduplos' component={Agentesduplos} />
 
 
 
