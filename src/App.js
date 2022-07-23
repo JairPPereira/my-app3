@@ -196,7 +196,7 @@ function App() {
         <Route path='/homemaranha2' component={Homemaranha2} />
         <Route path='/supermurali' component={Supermurali} />
         <Route path='/terror' component={Terror} />
-        <Route path='/supense' component={Suspense} />
+        <Route path='/suspense' component={Suspense} />
         <Route path='/stretfp' component={Stretfp} />
         <Route path='/codinome7' component={Codinome7} />
         <Route path='/umjovememapuros' component={Umjovememapuros} />
