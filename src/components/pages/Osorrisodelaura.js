@@ -8,7 +8,7 @@ class Osorrisodelaura extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/c6009f_pluto/clip/604b9226b2b870001a05f62a_The_Expendables_2_BR/720p/20210312_080910/hls/0-end/master.m3u8",
+            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9qat20iz/format/applehttp/protocol/https/flavorIds/1_er5xhwbz,1_wnucdc9d,1_s8vx0lgr,1_r5oehucf,1_fdah2wkj,1_j1gac9bv/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1658619210&id=6743&ip=2804%3Ad4b%3A2239%3Aa1df%3Aaed4%3A40ad%3Aea95%3A9bbf&override_expiration=1500&sign=8o07DudMg0cvvGHOTc3VvYfnbapn11gopu7rCgWt4Rs%3D&playSessionId=28a3c6c3-c6f2-8bea-a7cd-660d1ccb1aa1:857df6e9-dbee-4a91-965f-4121fa3e88cb&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL28tc29ycmlzby1kZS1sYXVyYQ==&clientTag=html5:v7.49",
 
             poster: ""
         }
