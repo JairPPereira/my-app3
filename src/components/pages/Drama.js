@@ -10,9 +10,9 @@ export default function Drama() {
 
         <nav>
       <p><br /></p>
-      <Link to="./Ajusticeira">A justiceira</Link>
+      <Link to="./Kv1">Kv1 - Almas de ferro</Link>
       <p><br /></p>
-      <Link to="./Chef">Chef</Link>
+      <Link to="./Osorrisodelaura">O sorriso de Laura</Link>
       <p><br /></p>
 
 

@@ -98,6 +98,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Jogandocomoamor">Jogando com o amor</Link>
       <p><br /></p>
+      <Link to="./Kv1">Kv1 - Almas de ferro</Link>
+      <p><br /></p>
       <Link to="./Loucamenteapaixonados">Loucamente apaixonados</Link>
       <p><br /></p>
       <Link to="./Mariasangrenta">Maria Sangrenta</Link>
@@ -133,6 +135,8 @@ export default function Daaz() {
       <Link to="./Osespecialistas">Os especialistas</Link>
       <p><br /></p>
       <Link to="./Osmercenarios2">Os mercenarios 2</Link>
+      <p><br /></p>
+      <Link to="./Osorrisodelaura">O sorriso de Laura</Link>
       <p><br /></p>
       <Link to="./Psicopataamericano2">Psicopata americano 2</Link>
       <p><br /></p>

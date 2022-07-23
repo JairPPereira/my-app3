@@ -106,6 +106,8 @@ import Agentesduplos from './components/pages/Agentesduplos';
 import Aslaminasdje from './components/pages/Aslaminasdje';
 import Ogritodamorte from './components/pages/Ogritodamorte';
 import Drama from './components/pages/Drama';
+import Kv1 from './components/pages/Kv1';
+import Osorrisodelaura from './components/pages/Osorrisodelaura';
 
 
 
@@ -219,6 +221,9 @@ function App() {
         <Route path='/aslaminasdje' component={Aslaminasdje} />
         <Route path='/ogritodamorte' component={Ogritodamorte} />
         <Route path='/drama' component={Drama} />
+        <Route path='/kv1' component={Kv1} />
+        <Route path='/osorrisodelaura' component={Osorrisodelaura} />
+        
 
 
 
