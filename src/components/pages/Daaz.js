@@ -42,6 +42,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Ascensaoeqdui">Ascensão e queda de um império</Link>
       <p><br /></p>
+      <Link to="./Aslaminasdje">As lâminas de Jack o estripador</Link>
+      <p><br /></p>
       <Link to="./Assasinatosdopassado">Assasinatos do passado</Link>
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
@@ -117,6 +119,8 @@ export default function Daaz() {
       <Link to="./Odespertar">O despertar</Link>
       <p><br /></p>
       <Link to="./Odoadordememorias">O doador de memorias</Link>
+      <p><br /></p>
+      <Link to="./Ogritodamorte">O grito da morte</Link>
       <p><br /></p>
       <Link to="./Ohomemdamafia">O homem da mafia</Link>
       <p><br /></p>

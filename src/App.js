@@ -103,6 +103,8 @@ import Jogandocomoamor from './components/pages/Jogandocomoamor';
 import Loucamenteapaixonados from './components/pages/Loucamenteapaixonados';
 import Cadaveresardm from './components/pages/Cadaveresardm';
 import Agentesduplos from './components/pages/Agentesduplos';
+import Aslaminasdje from './components/pages/Aslaminasdje';
+import Ogritodamorte from './components/pages/Ogritodamorte';
 
 
 
@@ -213,6 +215,8 @@ function App() {
         <Route path='/loucamenteapaixonados' component={Loucamenteapaixonados} />
         <Route path='/cadaveresardm' component={Cadaveresardm} />
         <Route path='/agentesduplos' component={Agentesduplos} />
+        <Route path='/aslaminasdje' component={Aslaminasdje} />
+        <Route path='/ogritodamorte' component={Ogritodamorte} />
 
 
 
