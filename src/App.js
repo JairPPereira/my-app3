@@ -92,7 +92,7 @@ import Ascensaoeqdui from './components/pages/Ascensaoeqdui';
 import Homemaranha2 from './components/pages/Homemaranha2';
 import Supermurali from './components/pages/Supermurali';
 import Terror from './components/pages/Terror';
-import Suspense1 from './components/pages/Suspense1';
+import Suspense from './components/pages/Suspense';
 import Stretfp from './components/pages/Stretfp';
 import Codinome7 from './components/pages/Codinome7';
 import Umjovememapuros from './components/pages/Umjovememapuros';
@@ -196,7 +196,7 @@ function App() {
         <Route path='/homemaranha2' component={Homemaranha2} />
         <Route path='/supermurali' component={Supermurali} />
         <Route path='/terror' component={Terror} />
-        <Route path='/supense1' component={Suspense1} />
+        <Route path='/supense' component={Suspense} />
         <Route path='/stretfp' component={Stretfp} />
         <Route path='/codinome7' component={Codinome7} />
         <Route path='/umjovememapuros' component={Umjovememapuros} />

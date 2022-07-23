@@ -21,7 +21,7 @@ export const MenuItems = [
   },
   {
     title: 'Suspense',
-    path: '/suspense1',
+    path: '/suspense',
     cName: 'dropdown-link'
   },
 
