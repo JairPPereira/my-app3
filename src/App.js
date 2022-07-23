@@ -99,6 +99,8 @@ import Umjovememapuros from './components/pages/Umjovememapuros';
 import Tudopraficarcomela from './components/pages/Tudopraficarcomela';
 import Odoadordememorias from './components/pages/Odoadordememorias';
 import Atumbadodiabo from './components/pages/Atumbadodiabo';
+import Jogandocomoamor from './components/pages/Jogandocomoamor';
+import Loucamenteapaixonados from './components/pages/Loucamenteapaixonados';
 
 
 
@@ -205,6 +207,9 @@ function App() {
         <Route path='/tudopraficarcomela' component={Tudopraficarcomela} />
         <Route path='/odoadordememorias' component={Odoadordememorias} />
         <Route path='/atumbadodiabo' component={Atumbadodiabo} />
+        <Route path='/jogandocomoamor' component={Jogandocomoamor} />
+        <Route path='/loucamenteapaixonados' component={Loucamenteapaixonados} />
+
 
 
 

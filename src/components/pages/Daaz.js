@@ -90,6 +90,10 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Jesuskid">Jesus Kid</Link>
       <p><br /></p>
+      <Link to="./Jogandocomoamor">Jogando com o amor</Link>
+      <p><br /></p>
+      <Link to="./Loucamenteapaixonados">Loucamente apaixonados</Link>
+      <p><br /></p>
       <Link to="./Mariasangrenta">Maria Sangrenta</Link>
       <p><br /></p>
       <Link to="./Megalodon">Megalodon</Link>
