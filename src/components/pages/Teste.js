@@ -7,7 +7,7 @@ export default function Teste() {
     <div>
           <p><br /></p>
       <iframe className="video-js"
-        src="https://cloclo53.cloud.mail.ru/weblink/view//eoha/vZG9pJLg8"
+        src="http://tv.factoryiptv.com/movie/de2019/de2019/48423.mkv"
         frameborder="0"
         width="100%" height="320px" fullscreen="true"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
