@@ -10,7 +10,7 @@ export default function Series() {
 
 <nav>
       <p><br /></p>
-      <Link to="./Boasnovas">Boas novas</Link>
+      <Link to="./Aturmadamonica">A turma da Mônica</Link>
       <p><br /></p>
       
 
