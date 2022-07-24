@@ -108,6 +108,8 @@ import Ogritodamorte from './components/pages/Ogritodamorte';
 import Drama from './components/pages/Drama';
 import Kv1 from './components/pages/Kv1';
 import Osorrisodelaura from './components/pages/Osorrisodelaura';
+import Ocomitedd from './components/pages/Ocomitedd';
+import Fundingyou from './components/pages/Fundingyou';
 
 
 
@@ -223,6 +225,8 @@ function App() {
         <Route path='/drama' component={Drama} />
         <Route path='/kv1' component={Kv1} />
         <Route path='/osorrisodelaura' component={Osorrisodelaura} />
+        <Route path='/ocomitedd' component={Ocomitedd} />
+        <Route path='/fudingyou' component={Fundingyou} />
         
 
 

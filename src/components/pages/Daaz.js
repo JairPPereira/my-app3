@@ -86,6 +86,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
+      <Link to="./Fudingyou">Funding you</Link>
+      <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
@@ -115,6 +117,8 @@ export default function Daaz() {
       <Link to="./Ocaminho">O caminho</Link>
       <p><br /></p>
       <Link to="./Ocladasadagas">O Clã das adagas</Link>
+      <p><br /></p>
+      <Link to="./Ocomitedd">O comitê de Deus</Link>
       <p><br /></p>
       <Link to="./Ocontodoscontos">O Conto dos contos</Link>
       <p><br /></p>
