@@ -111,6 +111,7 @@ import Osorrisodelaura from './components/pages/Osorrisodelaura';
 import Ocomitedd from './components/pages/Ocomitedd';
 import Fundingyou from './components/pages/Fundingyou';
 import Teste from './components/pages/Teste';
+import Fungindodopassado from './components/pages/Fugindodopassado';
 
 
 
@@ -229,6 +230,7 @@ function App() {
         <Route path='/ocomitedd' component={Ocomitedd} />
         <Route path='/fudingyou' component={Fundingyou} />
         <Route path='/teste' component={Teste} />
+        <Route path='/fugindodopassado' component={Fungindodopassado} />
         
 
 

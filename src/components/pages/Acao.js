@@ -20,6 +20,8 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Distrito13o">Distrito 13 o ultimato</Link>
       <p><br /></p>
+      <Link to="./Fugindodopassado">Fugindo do passado</Link>
+      <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
       <p><br /></p>
       <Link to="./Ninja">Ninja</Link>

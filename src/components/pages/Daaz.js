@@ -86,6 +86,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
+      <Link to="./Fugindodopassado">Fugindo do passado</Link>
+      <p><br /></p>
       <Link to="./Fudingyou">Funding you</Link>
       <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
