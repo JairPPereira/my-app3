@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import VideoPlayer from 'react-video-js-player';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
