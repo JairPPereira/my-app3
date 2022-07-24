@@ -9,7 +9,7 @@ export default function Teste() {
       <iframe
         src="https://cloclo53.cloud.mail.ru/weblink/view//eoha/vZG9pJLg8"
         frameborder="0"
-        width="100%" height="320px"
+        width="100%" height="320px" allowFullScreen="true"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
