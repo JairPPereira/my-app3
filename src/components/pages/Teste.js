@@ -1,26 +1,45 @@
-import React from "react";
-import { Link } from 'react-router-dom';
-import './videoapp.css';
+import React from 'react';
+import '../../App.css';
+import {Link } from "react-router-dom";
 
-export default function Teste() {
+export default function Terror() {
+
   return (
-    <div>
-          <p><br /></p>
-      <iframe className="video-js"
-        src="https://cloclo53.cloud.mail.ru/weblink/view//eoha/vZG9pJLg8"
-        frameborder="0"
-        width="100%" height="320px" fullscreen="true"
-        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        title="video"
-      />{" "}
-                  <div className="nave">
-      <nav>
+    <>
+      <h1 className='terror'>
+
+        <nav>
       <p><br /></p>
-      <Link to="/">Home</Link>
+      <Link to="./Alendadjj">A lenda de Jack e Jill</Link>
+      <p><br /></p>
+      <Link to="./Amorzumbi">Amor Zumbi</Link>
+      <p><br /></p>
+      <Link to="./Aslaminasdje">As lâminas de Jack o estripador</Link>
+      <p><br /></p>
+      <Link to="./Criatura">Criatura</Link>
+      <p><br /></p>
+      <Link to="./Mariasangrenta">Maria Sangrenta</Link>
+      <p><br /></p>
+      <Link to="./Necroterio">Necrotério</Link>
+      <p><br /></p>
+      <Link to="./Ogritodamorte">O grito da morte</Link>
+      <p><br /></p>
+      <Link to="./Oparamo">O Páramo</Link>
+      <p><br /></p>
+      <Link to="https://cloclo53.cloud.mail.ru/weblink/view//eoha/vZG9pJLg8">Psicopata americano 2</Link>
+      <p><br /></p>
+      <Link to="https://radioetv.netlify.app/">Resident Evil Bem vindo a Raccoon city</Link>
+      <p><br /></p>
+  
 
-<p><br /></p>
 
-      </nav></div></div>
+     
+      </nav></h1>
 
+    </>
+        
+        
+         
   );
 }
+
