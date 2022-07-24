@@ -118,6 +118,8 @@ import Series from './components/pages/Series';
 import Playlistyou from './components/pages/Playlistyou';
 import Playcda from './components/pages/Playcda';
 import Playclass from './components/pages/Playclass';
+import Magali from './components/pages/Magali';
+import Monica from './components/pages/Monica';
 
 
 
@@ -243,6 +245,8 @@ function App() {
         <Route path='/playlistyou' component={Playlistyou} />
         <Route path='/playcda' component={Playcda} />
         <Route path='/playclass' component={Playclass} />
+        <Route path='/magali' component={Magali} />
+        <Route path='/monica' component={Monica} />
         
 
 
