@@ -8,7 +8,7 @@ class Teste extends Component {
     player = {}
     state = {
         video: {
-            src: "https://videos.nxplay.com.br/hls/e325134cbce311ebad891615f31c5c36/video_1.m3u8",
+            src: "https://cloclo53.cloud.mail.ru/weblink/view//eoha/vZG9pJLg8",
 
             poster: ""
         }
