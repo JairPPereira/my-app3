@@ -124,7 +124,7 @@ function App() {
         <Route path='/daaz' component={Daaz} />
         <Route path='/tvs' component={TVs} />
         <Route path='/radios' component={Radios} />
-        <Route path='/signUp' component={SignUp} />
+        <Route path='/sign-up' component={SignUp} />
         <Route path='/acao' component={Acao} />
         <Route path='/comedia' component={Comedia} />
         <Route path='/2067' component={A2067} />

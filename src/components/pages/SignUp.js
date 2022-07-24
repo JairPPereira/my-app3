@@ -5,7 +5,7 @@ export default function SignUp() {
 
   return (
     <>
-      <h1 className='signUp'>
+      <h1 className='sign-up'>
 
         <nav>
       <p><br /></p>

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 export function Button() {
   return (
-    <Link to='signUp'>
+    <Link to='sign-up'>
       <button className='btn'>Sobre</button>
     </Link>
   );
