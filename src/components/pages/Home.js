@@ -14,7 +14,9 @@ export default function Home() {
         <p><br /></p>
         <Link to="/Daaz">Filmes de A a Z</Link>
         <p><br /></p>
-        <Link to="/Porcategoria">Por categoria</Link>
+        <Link to="/Porcategoria">Filmes Por categoria</Link>
+        <p><br /></p>
+        <Link to="/Series">Séries</Link>
         <p><br /></p>
         <Link to="/TVs">TVs</Link>
         <p><br /></p>
