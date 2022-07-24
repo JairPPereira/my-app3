@@ -12,7 +12,7 @@ export default function Playlistyou() {
       <p><br /></p>
       <Link to="./Playcda">Playlist Clássicos de Ação</Link>
       <p><br /></p>
-      <Link to="./Playclass">Playlist de filmes cult - Dublados e Legendados</Link>
+      <Link to="./Playclass">Playlist de filmes de Acão e Ficção</Link>
       <p><br /></p>
       
 
