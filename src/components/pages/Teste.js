@@ -8,7 +8,7 @@ class Teste extends Component {
     player = {}
     state = {
         video: {
-            src: "https://api.prod.gcp.vix.services/play.m3u8?access-key=ebda91e5bb69b57d8107a1f7d2c4e8c4b784d65e",
+            src: "https://861138007.tapecontent.net/radosgw/0ZKkoyyLOQTbzvX/gEucGzBLEk1ulrYIf5mU9BGsDyf1jar4rP6rugJ7Yc-NUWQCRjegpCDtSTagU2VhDGvrYYceQ3mgzfhcGZpwgVPrCoNqfLXaWPFRGpfvEQon9Mfvo_1p9qvXVZSB-2qFaYH9JvvtbCuRR4Yw8ic5eU-vGCwydbx-NZjhqEVHIHWz2zw6AKEVuYEqaYD5LiDE8Z3Wx9FxqtgkUEVQZPMQX18ozYjBlT-Cx0bwuhA23jZf9VjrS05C8BIEWjqIodtcgkAFwG3IEbYrJBCRzkvh-vf9-i9dhadGVKwkCA/a1GYoaamiHbZS8ZE?stream=1",
 
             poster: ""
         }
