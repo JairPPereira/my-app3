@@ -114,7 +114,7 @@ import Teste from './components/pages/Teste';
 import Fungindodopassado from './components/pages/Fugindodopassado';
 import Atravessia from './components/pages/Atravessia';
 import Aturmadamonica from './components/pages/Aturmadamonica';
-import Series from './components/Series';
+import Series from './components/pages/Series';
 
 
 
