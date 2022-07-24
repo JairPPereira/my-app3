@@ -115,6 +115,8 @@ import Fungindodopassado from './components/pages/Fugindodopassado';
 import Atravessia from './components/pages/Atravessia';
 import Aturmadamonica from './components/pages/Aturmadamonica';
 import Series from './components/pages/Series';
+import Playlistyou from './components/pages/Playlistyou';
+import Playcda from './components/pages/Playcda';
 
 
 
@@ -237,6 +239,8 @@ function App() {
         <Route path='/atravessia' component={Atravessia} />
         <Route path='/aturmadamonica' component={Aturmadamonica} />
         <Route path='/series' component={Series} />
+        <Route path='/playlistyou' component={Playlistyou} />
+        <Route path='/playcda' component={Playcda} />
         
 
 
