@@ -63,8 +63,7 @@ function Navbar() {
               to='/series'
               className='nav-links-mobile'
               onClick={closeMobileMenu}
-            >
-              Séries
+            >Series
             </Link>
           </li>
             <Link
