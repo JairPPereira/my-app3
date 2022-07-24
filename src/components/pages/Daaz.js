@@ -48,6 +48,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
       <p><br /></p>
+      <Link to="./Atravessia">A travessia</Link>
+      <p><br /></p>
       <Link to="./Atumbadodiabo">A tumba do Diabo</Link>
       <p><br /></p>
       <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
