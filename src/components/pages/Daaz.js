@@ -162,6 +162,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Supermurali">Super Murali</Link>
       <p><br /></p>
+      <Link to="./Teste">Teste</Link>
+      <p><br /></p>
       <Link to="./Tempo">Tempo</Link>
       <p><br /></p>
       <Link to="./Tudopraficarcomela">Tudo pra ficar com ela</Link>

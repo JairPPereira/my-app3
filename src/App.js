@@ -110,6 +110,7 @@ import Kv1 from './components/pages/Kv1';
 import Osorrisodelaura from './components/pages/Osorrisodelaura';
 import Ocomitedd from './components/pages/Ocomitedd';
 import Fundingyou from './components/pages/Fundingyou';
+import Teste from './components/pages/Teste';
 
 
 
@@ -227,6 +228,7 @@ function App() {
         <Route path='/osorrisodelaura' component={Osorrisodelaura} />
         <Route path='/ocomitedd' component={Ocomitedd} />
         <Route path='/fudingyou' component={Fundingyou} />
+        <Route path='/teste' component={Teste} />
         
 
 
