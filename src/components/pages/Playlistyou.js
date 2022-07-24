@@ -12,7 +12,7 @@ export default function Playlistyou() {
       <p><br /></p>
       <Link to="./Playcda">Playlist Clássicos de Ação</Link>
       <p><br /></p>
-      <Link to="./Playclass">Playlist de filmes de Acão e Ficção</Link>
+      <Link to="./Playclass">Playlist de filmes por Roberto Ludueno</Link>
       <p><br /></p>
       
 
