@@ -113,6 +113,7 @@ import Fundingyou from './components/pages/Fundingyou';
 import Teste from './components/pages/Teste';
 import Fungindodopassado from './components/pages/Fugindodopassado';
 import Atravessia from './components/pages/Atravessia';
+import Aturmadamonica from './components/pages/Aturmadamonica';
 
 
 
@@ -233,6 +234,7 @@ function App() {
         <Route path='/teste' component={Teste} />
         <Route path='/fugindodopassado' component={Fungindodopassado} />
         <Route path='/atravessia' component={Atravessia} />
+        <Route path='/aturmadamonica' component={Aturmadamonica} />
         
 
 
