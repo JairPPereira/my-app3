@@ -14,6 +14,8 @@ export default function Playlistyou() {
       <p><br /></p>
       <Link to="./Playclass">Playlist de filmes por Roberto Ludueno</Link>
       <p><br /></p>
+      <Link to="./Playnetmovie">Playlist de filmes NetMovie</Link>
+      <p><br /></p>
       
 
      
