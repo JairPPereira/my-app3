@@ -10,9 +10,11 @@ export default function Aturmadamonica() {
 
 <nav>
       <p><br /></p>
-      <Link to="./Magali">Episódio 1 - Magali</Link>
+      <Link to="./Monica">Episódio 1 - Mônica</Link>
       <p><br /></p>
-      <Link to="./Monica">Episódio 2 - Mônica</Link>
+      <Link to="./Magali">Episódio 2 - Magali</Link>
+      <p><br /></p>
+      <Link to="./Cebolinha">Episódio 3 - Cebolinha</Link>
       <p><br /></p>
       
 

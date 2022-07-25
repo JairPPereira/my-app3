@@ -13,8 +13,6 @@ export default function Series() {
       <Link to="./Aturmadamonica">A turma da Mônica</Link>
       <p><br /></p>
       
-
-     
       </nav></h1>
 
     </>

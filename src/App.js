@@ -120,6 +120,7 @@ import Playcda from './components/pages/Playcda';
 import Playclass from './components/pages/Playclass';
 import Magali from './components/pages/Magali';
 import Monica from './components/pages/Monica';
+import Cebolinha from './components/pages/Cebolinha';
 
 
 
@@ -247,6 +248,7 @@ function App() {
         <Route path='/playclass' component={Playclass} />
         <Route path='/magali' component={Magali} />
         <Route path='/monica' component={Monica} />
+        <Route path='/cebolinha' component={Cebolinha} />
         
 
 
