@@ -12,6 +12,8 @@ export default function Porcategoria() {
       <p><br /></p>
       <Link to="./Acao">Ação</Link>
       <p><br /></p>
+      <Link to="./Aventura">Aventura</Link>
+      <p><br /></p>
       <Link to="./Comedia">Comedia</Link>
       <p><br /></p>
       <Link to="./Drama">Drama</Link>
@@ -21,6 +23,8 @@ export default function Porcategoria() {
       <Link to="./Romance">Romance</Link>
       <p><br /></p>
       <Link to="./Suspense">Suspense</Link>
+      <p><br /></p>
+      <Link to="./Series">Séries</Link>
       <p><br /></p>
       <Link to="./Terror">Terror</Link>
 

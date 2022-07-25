@@ -5,6 +5,11 @@ export const MenuItems = [
     cName: 'dropdown-link'
   },
   {
+    title: 'Aventura',
+    path: '/aventura',
+    cName: 'dropdown-link'
+  },
+  {
     title: 'Comedia',
     path: '/comedia',
     cName: 'dropdown-link'
@@ -24,6 +29,12 @@ export const MenuItems = [
     path: '/romance',
     cName: 'dropdown-link'
   },
+  {
+    title: 'Series',
+    path: '/series',
+    cName: 'dropdown-link'
+  },
+
   {
     title: 'Suspense',
     path: '/suspense',

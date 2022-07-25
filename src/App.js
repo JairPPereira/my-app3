@@ -129,6 +129,7 @@ import Segredo from './components/pages/Segredo';
 import Lama from './components/pages/Lama';
 import Asvampiras from './components/pages/Asvampiras';
 import Pagandobqmt from './components/pages/Pagandobqmt';
+import Aventura from './components/pages/Aventura';
 
 
 
@@ -265,6 +266,7 @@ function App() {
         <Route path='/lama' component={Lama} />
         <Route path='/asvampiras' component={Asvampiras} />
         <Route path='/pagandobqmt' component={Pagandobqmt} />
+        <Route path='/aventura' component={Aventura} />
 
         
 
