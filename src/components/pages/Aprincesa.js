@@ -7,19 +7,13 @@ import './videoapp.css';
         return (
           <div>
                 <p><br /></p>
-            <iframe
-              src="https://cloclo56.cloud.mail.ru/weblink/view//3FkF/tfDvET7g4"
-              frameborder="0"
-              width="100%" height="320px"
-              allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-              title="video"
-            />{" "}
+                <iframe src="https://cloclo56.cloud.mail.ru/weblink/view//3FkF/tfDvET7g4" width="640" height="480" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;fullscreen; picture-in-picture"></iframe>
                         <div className="nave">
             <nav>
             <p><br /></p>
             <Link to="/">Home</Link>
       
-      <p><br /></p>
+      <p><br /></p> "
       
             </nav></div></div>
       
