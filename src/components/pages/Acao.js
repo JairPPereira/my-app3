@@ -14,8 +14,6 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Atravessia">A travessia</Link>
       <p><br /></p>
-      <Link to="./Aprincesa">A Princesa</Link>
-      <p><br /></p>
       <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
       <p><br /></p>
       <Link to="./Bloodrayne3">Bloodrayne 3</Link>

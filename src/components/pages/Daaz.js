@@ -38,8 +38,6 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
-      <Link to="./Aprincesa">A Princesa</Link>
-      <p><br /></p>
       <Link to="./Aqualquerpreco">A qualquer preço</Link>
       <p><br /></p>
       <Link to="./Ascensaoeqdui">Ascensão e queda de um império</Link>
@@ -49,6 +47,8 @@ export default function Daaz() {
       <Link to="./Assasinatosdopassado">Assasinatos do passado</Link>
       <p><br /></p>
       <Link to="./Assasinosdealuguel">Assasinos de aluguel</Link>
+      <p><br /></p>
+      <Link to="./Asvampiras">As Vampiras</Link>
       <p><br /></p>
       <Link to="./Atravessia">A travessia</Link>
       <p><br /></p>
@@ -147,6 +147,8 @@ export default function Daaz() {
       <Link to="./Osmercenarios2">Os mercenarios 2</Link>
       <p><br /></p>
       <Link to="./Osorrisodelaura">O sorriso de Laura</Link>
+      <p><br /></p>
+      <Link to="./Pagandobqmt">Pagando Bem que Mal Tem</Link>
       <p><br /></p>
       <Link to="./Psicopataamericano2">Psicopata americano 2</Link>
       <p><br /></p>

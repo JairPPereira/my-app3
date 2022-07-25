@@ -14,6 +14,8 @@ export default function Romance() {
       <p><br /></p>
       <Link to="./Albertnobbs">Albert Nobbs</Link>
       <p><br /></p>
+      <Link to="./Asvampiras">As Vampiras</Link>
+      <p><br /></p>
       <Link to="./Coragemparaamar">Coragem para amar</Link>
       <p><br /></p>
       <Link to="./Entreoamoreafama">Entre o amor e a fama</Link>
@@ -21,6 +23,8 @@ export default function Romance() {
       <Link to="./Jogandocomoamor">Jogando com o amor</Link>
       <p><br /></p>
       <Link to="./Loucamenteapaixonados">Loucamente apaixonados</Link>
+      <p><br /></p>
+      <Link to="./Pagandobqmt">Pagando Bem que Mal Tem</Link>
       <p><br /></p>
       <Link to="./Umamorprarecordar">Um amor pra recordar</Link>
       <p><br /></p>
