@@ -122,6 +122,11 @@ import Magali from './components/pages/Magali';
 import Monica from './components/pages/Monica';
 import Cebolinha from './components/pages/Cebolinha';
 import Playnetmovie from './components/pages/Playnetmovie';
+import Cascao from './components/pages/Cascao';
+import Milena from './components/pages/Milena';
+import Perfeicao from './components/pages/Perfeicao';
+import Segredo from './components/pages/Segredo';
+import Lama from './components/pages/Lama';
 
 
 
@@ -251,6 +256,11 @@ function App() {
         <Route path='/monica' component={Monica} />
         <Route path='/cebolinha' component={Cebolinha} />
         <Route path='/playnetmovie' component={Playnetmovie} />
+        <Route path='/cascao' component={Cascao} />
+        <Route path='/milena' component={Milena} />
+        <Route path='/perfeicao' component={Perfeicao} />
+        <Route path='/segredo' component={Segredo} />
+        <Route path='/lama' component={Lama} />
         
 
 
