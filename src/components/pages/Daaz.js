@@ -38,6 +38,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
+      <Link to="./Aprincesa">A Princesa</Link>
+      <p><br /></p>
       <Link to="./Aqualquerpreco">A qualquer preço</Link>
       <p><br /></p>
       <Link to="./Ascensaoeqdui">Ascensão e queda de um império</Link>
@@ -51,8 +53,6 @@ export default function Daaz() {
       <Link to="./Atravessia">A travessia</Link>
       <p><br /></p>
       <Link to="./Atumbadodiabo">A tumba do Diabo</Link>
-      <p><br /></p>
-      <Link to="./Aturmadamonica">A turma da Mônica</Link>
       <p><br /></p>
       <Link to="./Batalhadosimperios">Batalha do Imperios</Link>
       <p><br /></p>

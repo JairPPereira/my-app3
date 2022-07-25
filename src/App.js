@@ -127,6 +127,7 @@ import Milena from './components/pages/Milena';
 import Perfeicao from './components/pages/Perfeicao';
 import Segredo from './components/pages/Segredo';
 import Lama from './components/pages/Lama';
+import Aprincesa from './components/pages/Aprincesa';
 
 
 
@@ -261,6 +262,7 @@ function App() {
         <Route path='/perfeicao' component={Perfeicao} />
         <Route path='/segredo' component={Segredo} />
         <Route path='/lama' component={Lama} />
+        <Route path='/aprincesa' component={Aprincesa} />
         
 
 
