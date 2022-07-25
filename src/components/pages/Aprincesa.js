@@ -8,7 +8,7 @@ import './videoapp.css';
           <div>
                 <p><br /></p>
             <iframe
-              src="https://www.youtube.com/embed/videoseries?list=PL-7ezpvNmHiBW8VP3VOvSGrg_kAqhQkc4"
+              src="https://cloclo56.cloud.mail.ru/weblink/view//3FkF/tfDvET7g4"
               frameborder="0"
               width="100%" height="320px"
               allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
