@@ -264,7 +264,7 @@ function App() {
         <Route path='/segredo' component={Segredo} />
         <Route path='/lama' component={Lama} />
         <Route path='/asvampiras' component={Asvampiras} />
-        <Route path='/pagandopbqmt' component={Pagandobqmt} />
+        <Route path='/pagandobqmt' component={Pagandobqmt} />
 
         
 
