@@ -60,6 +60,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Bloodrayne3">Bloodrayne 3</Link>
       <p><br /></p>
+      <Link to="./Boltsc">Bolt Super Cão</Link>
+      <p><br /></p>
       <Link to="./Cacadoresderecompensas">Caçadores de recompensas</Link>
       <p><br /></p>
       <Link to="./Cadaveresardm">Cadáveres a reunião dos mortos</Link>
@@ -125,6 +127,8 @@ export default function Daaz() {
       <Link to="./Ninja">Ninja</Link>
       <p><br /></p>
       <Link to="./Ocaminho">O caminho</Link>
+      <p><br /></p>
+      <Link to="./Ocavaleirod">O cavaleiro do dragão</Link>
       <p><br /></p>
       <Link to="./Ocladasadagas">O Clã das adagas</Link>
       <p><br /></p>

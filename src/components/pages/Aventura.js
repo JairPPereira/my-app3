@@ -14,6 +14,8 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
+      <Link to="./Boltsc">Bolt Super Cão</Link>
+      <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
       <Link to="./Gossebump2">Gossebump 2 - Halooween assombrado</Link>
@@ -25,6 +27,8 @@ export default function Aventura() {
       <Link to="./Supermurali">Super Murali</Link>
       <p><br /></p>
       <Link to="./Tresninjas">3 ninjas em apuros</Link>
+      <p><br /></p>
+      <Link to="./Ocavaleirod">O cavaleiro do dragão</Link>
       <p><br /></p>
 
 
