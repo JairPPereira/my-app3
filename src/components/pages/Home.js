@@ -28,7 +28,8 @@ export default function Home() {
           
   
         </nav>
-        <p>O site JPP APP é uma plataforma para assistir filmes e séries online, nesta página, funcionamos como base nas últimas tecnologias lançadas nesta geração voltada ao uso de inteligência artificial & robots & API de dados, ou seja, não hospedamos vídeos em nossos servidores, apenas, de forma automática, indexamos os arquivos que são capturados pela web, nos tornando completamente legais & dentro da lei. O uso desta plataforma é de total responsabilidade do usuário. Qualquer violação de direitos autorais, entre em contato com o distribuidor. Em caso de dúvidas ou reclamações sobre o conteúdo, entre em contato conosco para obter a devida ajuda.Ajude a manter nosso site pelo Pix: jairppereira21@gmail.com</p></div>
+        <p>O site JPP APP é uma plataforma para assistir filmes e séries online, nesta página, funcionamos como base nas últimas tecnologias lançadas nesta geração voltada ao uso de inteligência artificial & robots & API de dados, ou seja, não hospedamos vídeos em nossos servidores, apenas, de forma automática, indexamos os arquivos que são capturados pela web, nos tornando completamente legais & dentro da lei. O uso desta plataforma é de total responsabilidade do usuário. Qualquer violação de direitos autorais, entre em contato com o distribuidor. Em caso de dúvidas ou reclamações sobre o conteúdo, entre em contato conosco para obter a devida ajuda.
+        <p><br /></p>Ajude a manter nosso site pelo Pix: jairppereira21@gmail.com</p></div>
 </h1>
 
     </>
