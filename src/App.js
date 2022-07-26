@@ -135,6 +135,7 @@ import Aeradogelo2 from './components/pages/Aeradogelo2';
 import Globonews from './components/pages/Globonews';
 import Bandnews from './components/pages/Bandnews';
 import Cnn from './components/pages/Cnn';
+import Tresninjas from './components/pages/Tresninjas';
 
 
 
@@ -277,6 +278,7 @@ function App() {
         <Route path='/globonews' component={Globonews} />
         <Route path='/bandnews' component={Bandnews} />
         <Route path='/cnn' component={Cnn} />
+        <Route path='/tresninjas' component={Tresninjas} />
 
         
 

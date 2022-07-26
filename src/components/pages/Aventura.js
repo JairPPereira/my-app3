@@ -22,6 +22,10 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Homemaranha2">Homem Aranha 2</Link>
       <p><br /></p>
+      <Link to="./Supermurali">Super Murali</Link>
+      <p><br /></p>
+      <Link to="./Tresninjas">3 ninjas em apuros</Link>
+      <p><br /></p>
 
 
      
