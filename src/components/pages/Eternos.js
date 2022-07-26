@@ -8,7 +8,7 @@ class Eternos extends Component {
     player = {}
     state = {
         video: {
-            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zljanaq7/format/applehttp/protocol/https/flavorIds/1_0g0k2wsu,1_4c81tqko,1_d3781732,1_pm4uudbn,1_uew4xv9t,1_3zmvfjbb/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1657570522&id=891&ip=167.249.209.218&override_expiration=1500&sign=B3Wqc0KWERUPiQuEpeqLOidulnoe67Vp9TR5efyNIJM%3D&playSessionId=ba37ae17-43d0-cb66-b0ac-91997525e00d:5e7d0402-581f-d3b9-1d84-a360dc9f58ce&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2VudHJlLW8tYW1vci1lLWZhbWE=&clientTag=html5:v7.49",
+            src: "https://video.wixstatic.com/video/e16db6_ff6109a7ef4c42dbb2337102caa14814/720p/mp4/file.mp4",
 
             poster: ""
         }
