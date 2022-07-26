@@ -20,6 +20,10 @@ export default function TVs() {
       <p><br /></p>
       <Link to="./Recordnews">Recordnews</Link>
       <p><br /></p>
+      <Link to="./Globonews">Globonews</Link>
+      <p><br /></p>
+      <Link to="./Bandnews">Globonews</Link>
+      <p><br /></p>
       <Link to="./Sbt">Sbt</Link>
       
 
