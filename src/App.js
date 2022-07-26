@@ -138,6 +138,8 @@ import Cnn from './components/pages/Cnn';
 import Tresninjas from './components/pages/Tresninjas';
 import Ocavaleirod from './components/pages/Ocavaleirod';
 import Boltsc from './components/pages/Boltsc';
+import Gatodebotas from './components/pages/Gatodebotas';
+import Zero7cr from './components/pages/Zero7cr';
 
 
 
@@ -283,6 +285,8 @@ function App() {
         <Route path='/tresninjas' component={Tresninjas} />
         <Route path='/ocavaleirod' component={Ocavaleirod} />
         <Route path='/boltsc' component={Boltsc} />
+        <Route path='/gatodebotas' component={Gatodebotas} />
+        <Route path='/zero7cr' component={Zero7cr} />
 
         
 

@@ -98,6 +98,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Fudingyou">Funding you</Link>
       <p><br /></p>
+      <Link to="./Gatodebotas">Gato de botas</Link>
+      <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
       <p><br /></p>
       <Link to="./Gossebump2">Gossebump 2 - Halooween assombrado</Link>
@@ -197,6 +199,9 @@ export default function Daaz() {
       <Link to="./Umnegocioderisco">Um negocio de risco</Link>
       <p><br /></p>
       <Link to="./Umpobretaoncsb">Um pobretão na Casa Branca</Link>
+      <p><br /></p>
+      <Link to="./Zero7cr">007 Cassino Royale</Link>
+      <p><br /></p>
 
 
      

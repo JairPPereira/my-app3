@@ -18,6 +18,8 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
+      <Link to="./Gatodebotas">Gato de botas</Link>
+      <p><br /></p>
       <Link to="./Gossebump2">Gossebump 2 - Halooween assombrado</Link>
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
@@ -29,6 +31,8 @@ export default function Aventura() {
       <Link to="./Tresninjas">3 ninjas em apuros</Link>
       <p><br /></p>
       <Link to="./Ocavaleirod">O cavaleiro do dragão</Link>
+      <p><br /></p>
+      <Link to="./Zero7cr">007 Cassino Royale</Link>
       <p><br /></p>
 
 
