@@ -92,6 +92,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Entreoamoreafama">Entre o amor e a fama</Link>
       <p><br /></p>
+      <Link to="./Eternos">Eternos</Link>
+      <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
       <Link to="./Fugindodopassado">Fugindo do passado</Link>
@@ -159,6 +161,8 @@ export default function Daaz() {
       <Link to="./Osorrisodelaura">O sorriso de Laura</Link>
       <p><br /></p>
       <Link to="./Pagandobqmt">Pagando Bem que Mal Tem</Link>
+      <p><br /></p>
+      <Link to="./Pedrocoelho2">Pedro coelho 2 - O fugitivo</Link>
       <p><br /></p>
       <Link to="./Psicopataamericano2">Psicopata americano 2</Link>
       <p><br /></p>

@@ -16,6 +16,8 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Boltsc">Bolt Super Cão</Link>
       <p><br /></p>
+      <Link to="./Eternos">Eternos</Link>
+      <p><br /></p>
       <Link to="./Finch">Finch</Link>
       <p><br /></p>
       <Link to="./Gatodebotas">Gato de botas</Link>
@@ -25,6 +27,8 @@ export default function Aventura() {
       <Link to="./Homemaranha">Homem Aranha</Link>
       <p><br /></p>
       <Link to="./Homemaranha2">Homem Aranha 2</Link>
+      <p><br /></p>
+      <Link to="./Pedrocoelho2">Pedro coelho 2 - O fugitivo</Link>
       <p><br /></p>
       <Link to="./Supermurali">Super Murali</Link>
       <p><br /></p>

@@ -24,9 +24,8 @@ export default function TVs() {
       <p><br /></p>
       <Link to="./Bandnews">Bandnews</Link>
       <p><br /></p>
-      <Link to="./Cnn">CNN</Link>
-      <p><br /></p>
       <Link to="./Sbt">Sbt</Link>
+      <p><br /></p>
       
 
      
