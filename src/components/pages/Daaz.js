@@ -16,6 +16,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Acertodecontas">Acerto de contas</Link>
       <p><br /></p>
+      <Link to="./Aeradogelo2">A era do gelo 2</Link>
+      <p><br /></p>
       <Link to="./Aformadaagua">Aforma da agua</Link>
       <p><br /></p>
       <Link to="./Agentesduplos">Agentes duplos</Link>
@@ -95,6 +97,8 @@ export default function Daaz() {
       <Link to="./Fudingyou">Funding you</Link>
       <p><br /></p>
       <Link to="./Ghostland">Ghostland</Link>
+      <p><br /></p>
+      <Link to="./Gossebump2">Gossebump 2 - Halooween assombrado</Link>
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
       <p><br /></p>

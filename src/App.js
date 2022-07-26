@@ -130,6 +130,8 @@ import Lama from './components/pages/Lama';
 import Asvampiras from './components/pages/Asvampiras';
 import Pagandobqmt from './components/pages/Pagandobqmt';
 import Aventura from './components/pages/Aventura';
+import Gossebump2 from './components/pages/Gossebump2';
+import Aeradogelo2 from './components/pages/Aeradogelo2';
 
 
 
@@ -267,6 +269,8 @@ function App() {
         <Route path='/asvampiras' component={Asvampiras} />
         <Route path='/pagandobqmt' component={Pagandobqmt} />
         <Route path='/aventura' component={Aventura} />
+        <Route path='/gossebump2' component={Gossebump2} />
+        <Route path='/aeradogelo2' component={Aeradogelo2} />
 
         
 
