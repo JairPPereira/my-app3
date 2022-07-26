@@ -7,7 +7,7 @@ export default function Cnn() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8"
+        src="http://170.82.200.38:8080/cnn_brasil/index.m3u8"
         frameborder="0"
         width="100%" height="320px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
