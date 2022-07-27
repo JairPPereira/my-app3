@@ -24,6 +24,8 @@ export default function TVs() {
       <p><br /></p>
       <Link to="./Bandnews">Bandnews</Link>
       <p><br /></p>
+      <Link to="./Cnn">CNN Brasil</Link>
+      <p><br /></p>
       <a href="http://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8" target="_blank" rel="noopener noreferrer">CNN Brasil - Apenas para navegadores mobile</a>
       <p><br /></p>
       <Link to="./Sbt">Sbt</Link>

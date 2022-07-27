@@ -40,6 +40,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
+      <Link to="./Apenasus">Apenas um show - O filme</Link>
+      <p><br /></p>
       <Link to="./Aqualquerpreco">A qualquer preço</Link>
       <p><br /></p>
       <Link to="./Ascensaoeqdui">Ascensão e queda de um império</Link>

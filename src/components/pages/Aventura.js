@@ -14,6 +14,8 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
+      <Link to="./Apenasus">Apenas um show - O filme</Link>
+      <p><br /></p>
       <Link to="./Boltsc">Bolt Super Cão</Link>
       <p><br /></p>
       <Link to="./Eternos">Eternos</Link>
