@@ -12,11 +12,19 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Aeradogelo2">A era do gelo 2</Link>
       <p><br /></p>
+      <Link to="./Afilhadorei">A filha do rei</Link>
+      <p><br /></p>
       <Link to="./Anovaondadoimperador">A nova onda do imperador</Link>
       <p><br /></p>
       <Link to="./Apenasus">Apenas um show - O filme</Link>
       <p><br /></p>
+      <Link to="./Sereia2">A pequena sereia 2</Link>
+      <p><br /></p>
       <Link to="./Boltsc">Bolt Super Cão</Link>
+      <p><br /></p>
+      <Link to="./Centauro">Centauro</Link>
+      <p><br /></p>
+      <Link to="./Duna">Duna</Link>
       <p><br /></p>
       <Link to="./Eternos">Eternos</Link>
       <p><br /></p>
@@ -32,7 +40,15 @@ export default function Aventura() {
       <p><br /></p>
       <Link to="./Pedrocoelho2">Pedro coelho 2 - O fugitivo</Link>
       <p><br /></p>
+      <Link to="./Pokemon">Pokemon o filme - segredo da selva</Link>
+      <p><br /></p>
+      <Link to="./Reileao">Rei Leão</Link>
+      <p><br /></p>
+      <Link to="./Scooby">Scooby-Doo</Link>
+      <p><br /></p>
       <Link to="./Supermurali">Super Murali</Link>
+      <p><br /></p>
+      <Link to="./Trovao">Trovão tropical</Link>
       <p><br /></p>
       <Link to="./Tresninjas">3 ninjas em apuros</Link>
       <p><br /></p>

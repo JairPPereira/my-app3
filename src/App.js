@@ -145,6 +145,13 @@ import Cnn from './components/pages/Cnn';
 import Apenasus from './components/pages/Apenasus';
 import Operacoese from './components/pages/Operacoese';
 import Momentum from './components/pages/Momentum';
+import Trovao from './components/pages/Trovao';
+import Pokemon from './components/pages/Pokemon';
+import Centauro from './components/pages/Centauro';
+import Sereia2 from './components/pages/Sereia2';
+import Scooby from './components/pages/Scooby';
+import Reileao from './components/pages/Reileao';
+import Afilhadorei from './components/pages/Afilhadorei';
 
 
 
@@ -297,6 +304,13 @@ function App() {
         <Route path='/apenasus' component={Apenasus} />
         <Route path='/operacoese' component={Operacoese} />
         <Route path='/momentum' component={Momentum} />
+        <Route path='/trovao' component={Trovao} />
+        <Route path='/pokemon' component={Pokemon} />
+        <Route path='/centauro' component={Centauro} />
+        <Route path='/sereia2' component={Sereia2} />
+        <Route path='/scooby' component={Scooby} />
+        <Route path='/reileao' component={Reileao} />
+        <Route path='/afilhadorei' component={Afilhadorei} />
 
         
 
