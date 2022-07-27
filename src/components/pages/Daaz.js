@@ -128,6 +128,8 @@ export default function Daaz() {
       <p><br /></p>
       <Link to="./Minhamaeeumaviagem">Minha mãe é uma viagem</Link>
       <p><br /></p>
+      <Link to="./Momentum">Momentum</Link>
+      <p><br /></p>
       <Link to="./Necroterio">Necrotério</Link>
       <p><br /></p>
       <Link to="./Ninja">Ninja</Link>
@@ -155,6 +157,8 @@ export default function Daaz() {
       <Link to="./Olhosfamintos">Olhos famintos</Link>
       <p><br /></p>
       <Link to="./Oparamo">O Páramo</Link>
+      <p><br /></p>
+      <Link to="./Operacoese">Operações especiais</Link>
       <p><br /></p>
       <Link to="./Osespecialistas">Os especialistas</Link>
       <p><br /></p>

@@ -143,6 +143,8 @@ import Pedrocoelho2 from './components/pages/Pedrocoelho2';
 import Eternos from './components/pages/Eternos';
 import Cnn from './components/pages/Cnn';
 import Apenasus from './components/pages/Apenasus';
+import Operacoese from './components/pages/Operacoese';
+import Momentum from './components/pages/Momentum';
 
 
 
@@ -293,6 +295,8 @@ function App() {
         <Route path='/eternos' component={Eternos} />
         <Route path='/cnn' component={Cnn} />
         <Route path='/apenasus' component={Apenasus} />
+        <Route path='/operacoese' component={Operacoese} />
+        <Route path='/momentum' component={Momentum} />
 
         
 

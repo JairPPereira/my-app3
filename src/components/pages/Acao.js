@@ -26,11 +26,15 @@ export default function Acao() {
       <p><br /></p>
       <Link to="./Homemaranha">Homem Aranha</Link>
       <p><br /></p>
+      <Link to="./Momentum">Momentum</Link>
+      <p><br /></p>
       <Link to="./Ninja">Ninja</Link>
       <p><br /></p>
       <Link to="./Ocladasadagas">O Clã das adagas</Link>
       <p><br /></p>
       <Link to="./Ohomemdamafia">O homem da mafia</Link>
+      <p><br /></p>
+      <Link to="./Operacoese">Operações especiais</Link>
       <p><br /></p>
       <Link to="./Relacaoexplosiva">Relação explosiva</Link>
       <p><br /></p>
