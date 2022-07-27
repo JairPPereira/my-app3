@@ -20,9 +20,9 @@ export default function TVs() {
           <p><br /></p>
           <Link to="./Recordnews">Recordnews</Link>
           <p><br /></p>
-          <Link to="./Globonews">Globonews</Link>
+          <a href="https://jppfilmesonline.blogspot.com/p/bandnews.html" target="_blank" rel="noopener noreferrer">Bandnews</a>
           <p><br /></p>
-          <Link to="./Bandnews">Bandnews</Link>
+          <a href="https://jppfilmesonline.blogspot.com/p/globonews.html?m=1" target="_blank" rel="noopener noreferrer">Globonews</a>
           <p><br /></p>
           <a href="https://jppfilmesonline.blogspot.com/p/untitled-1-download-video-file.html" target="_blank" rel="noopener noreferrer">CNN Brasil</a>
           <p><br /></p>
