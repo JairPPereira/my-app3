@@ -34,11 +34,23 @@ export default function Daaz() {
             alt="A era do gelo 2"
           /></Link>
    
-      <Link to="./Afilhadorei">A filha do rei</Link>
+      <Link to="./Afilhadorei">
+      <img
+            src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg"
+            alt="A filha do rei"
+          /></Link>
       
-      <Link to="./Aformadaagua">Aforma da agua</Link>
+      <Link to="./Aformadaagua">
+      <img
+            src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg"
+            alt="Aforma da agua"
+          /></Link>
       
-      <Link to="./Agentesduplos">Agentes duplos</Link>
+      <Link to="./Agentesduplos">
+      <img
+            src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xvNJfzSHv3zpmBH0Uu8pZTW3f9x.jpg"
+            alt="Agentes duplos"
+          /></Link>
       
       <Link to="./Agoraestamossos">Agora estamos sos</Link>
     
