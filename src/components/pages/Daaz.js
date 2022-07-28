@@ -28,7 +28,11 @@ export default function Daaz() {
             src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qOBaU0NKpQTLoN161od9t7E50Up.jpg"
             alt="Acerto de contas"
           /></Link>
-      <Link to="./Aeradogelo2">A era do gelo 2</Link>
+            <Link to="./Aeradogelo2">
+      <img
+            src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg"
+            alt="A era do gelo 2"
+          /></Link>
    
       <Link to="./Afilhadorei">A filha do rei</Link>
       
