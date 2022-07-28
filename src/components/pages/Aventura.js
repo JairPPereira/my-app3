@@ -15,7 +15,7 @@ export default function Aventura() {
       <img
             src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg"
             alt="A era do gelo 2"
-          /></Link>
+          />A era do gelo 2</Link>
       
       <Link to="./Afilhadorei">A filha do rei</Link>
       
