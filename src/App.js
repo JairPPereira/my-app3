@@ -149,6 +149,8 @@ import Sereia2 from './components/pages/Sereia2';
 import Scooby from './components/pages/Scooby';
 import Reileao from './components/pages/Reileao';
 import Afilhadorei from './components/pages/Afilhadorei';
+import Otrapaceiro from './components/pages/Otrapaceiro';
+import Deencontrosam from './components/pages/Deencontrosam';
 
 
 
@@ -305,6 +307,8 @@ function App() {
         <Route path='/scooby' component={Scooby} />
         <Route path='/reileao' component={Reileao} />
         <Route path='/afilhadorei' component={Afilhadorei} />
+        <Route path='/otrapaceiro' component={Otrapaceiro} />
+        <Route path='/deecontrosam' component={Deencontrosam} />
 
         
 
