@@ -308,7 +308,7 @@ function App() {
         <Route path='/reileao' component={Reileao} />
         <Route path='/afilhadorei' component={Afilhadorei} />
         <Route path='/otrapaceiro' component={Otrapaceiro} />
-        <Route path='/deecontrosam' component={Deencontrosam} />
+        <Route path='/deencontrosam' component={Deencontrosam} />
 
         
 
