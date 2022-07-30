@@ -5,7 +5,6 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Porcategoria from './components/pages/Porcategoria';
 import TVs from './components/pages/TVs';
-import SignUp from './components/pages/SignUp';
 import Acao from './components/pages/Acao';
 import Comedia from './components/pages/Comedia';
 import A2067 from './components/pages/2067';
@@ -164,7 +163,6 @@ function App() {
         <Route path='/daaz' component={Daaz} />
         <Route path='/tvs' component={TVs} />
         <Route path='/radios' component={Radios} />
-        <Route path='/sign-up' component={SignUp} />
         <Route path='/acao' component={Acao} />
         <Route path='/comedia' component={Comedia} />
         <Route path='/2067' component={A2067} />

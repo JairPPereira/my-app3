@@ -7,9 +7,6 @@ const About = () =>{
       <h1>Página Inicial</h1>
       <nav>
         <ul>
-          <li>
-            <Link to="/sobre">Sobre</Link>
-          </li>
           <Link to="/">retornar a página inicial</Link>
           <li>
             <Link to="/usuario">Usuario</Link>

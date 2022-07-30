@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Button } from './Button';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 import Dropdown from './Dropdown';
@@ -82,17 +81,9 @@ function Navbar() {
               Rádios
             </Link>
           </li>
-          <li>
-            <Link
-              to='/sign-up'
-              className='nav-links-mobile'
-              onClick={closeMobileMenu}
-            >
-              Sobre
-            </Link>
-          </li>
+          
         </ul>
-        <Button />
+
       </nav>
     </>
   );
