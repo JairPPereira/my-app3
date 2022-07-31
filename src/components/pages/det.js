@@ -26,7 +26,7 @@ function Details() {
     })
   }, [id])
 
-  return (
+  return (<>
     <Container>
       <div className="movie">
       <img src={movie.image} alt={movie.sinopse}/>
@@ -46,8 +46,11 @@ function Details() {
      
 
          </div>
-
+       <div></div>
     </Container>
+
+    
+</>
   );
 }
 

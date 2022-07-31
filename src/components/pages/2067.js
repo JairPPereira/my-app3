@@ -3,6 +3,7 @@ import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
+
  
 class A2067 extends Component {
     player = {}
@@ -72,15 +73,20 @@ class A2067 extends Component {
 <p><br /></p>
 
       </nav></div>
-      <iframe
-      src="./Acasadomedo"
-      frameborder="0"
-      width="100%" height="480px"
 
-      title="video"
-    />{" "}</div>
+     
+  </div>
             
         );
     }
 }
+
+
+
+
+
+
+
+
+
 export default A2067;
