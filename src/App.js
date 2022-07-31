@@ -269,7 +269,7 @@ function App() {
         <Route path='/osorrisodelaura' component={Osorrisodelaura} />
         <Route path='/ocomitedd' component={Ocomitedd} />
         <Route path='/fudingyou' component={Fundingyou} />
-        <Route path='/Teste' component={Teste} />
+        <Route path='/test' component={Teste} />
         <Route path='/fugindodopassado' component={Fungindodopassado} />
         <Route path='/atravessia' component={Atravessia} />
         <Route path='/aturmadamonica' component={Aturmadamonica} />

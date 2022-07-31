@@ -1,39 +1,57 @@
-import * as React from "react";
-import ReactAudioPlayer from 'react-audio-player';
-import { Link } from 'react-router-dom';
-import './app.css';
+//import { Link } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { Link, useParams } from 'react-router-dom';
+
+import { Container } from './styles';
 
 function Teste() {
-    return (
-      <>
-        <main>
-          <div className="App">
-          <p><br /></p>
-        <div className='pele'>
-          <h2>Top hits</h2>
-          <img class="fit-picture"
-            src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png"
-            alt="Grapefruit slice atop a pile of other slices"></img>
-          <ReactAudioPlayer
-            src="http://stream.zeno.fm/wpgty99taphvv"
-            controls
-          /></div>
-  
+  const { id } = useParams()
+  const [movie, setMovie] = useState([])
+
+  const imagePath = 'https://image.tmdb.org/t/p/w500/'
+
+  useEffect(() => {
+    fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    .then(response => response.json())
+    .then(data => {
+      const {title, poster_path, release_date, overview} = data
+      const movie = {
+        id,
+        title,
+        image: `${imagePath}${poster_path}`,
+        sinopse: overview,
+        releaseDate: release_date
+      }
+      setMovie(movie)
+    })
+  }, [id])
+
+  return (<>
+    <Container>
+      <div className="movie">
+      <img src={movie.image} alt={movie.sinopse}/>
+     
+      <div className="details">
+        <h1>{movie.title}</h1>
+        
+        <span>Sinopse: {movie.sinopse}</span>
+
+        <span className='release-date'>Release date: {movie.releaseDate}</span>
+       
+
+        <Link to="/"><button>Go Back</button></Link></div>
+         
+       
+
+     
+
+         </div>
+       <div></div>
+    </Container>
+
     
-      </div>
-        </main>
-        <p><br /></p>
-        <div className="nave">
-        <nav>
-        <p><br /></p>
-        <Link to="/">Home</Link>
+</>
+  );
+}
 
-        <p><br /></p>
-          
-  
-        </nav></div>
-      </>
-    );
-  }
-
-  export default  Teste;
+export default Teste;
