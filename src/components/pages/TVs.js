@@ -30,6 +30,8 @@ export default function TVs() {
           <p><br /></p>
           <Link to="./Sbt">Sbt</Link>
           <p><br /></p>
+          <Link to="./test">Teste</Link>
+          <p><br /></p>
 
 
 

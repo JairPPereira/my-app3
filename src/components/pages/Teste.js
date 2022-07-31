@@ -1,31 +1,39 @@
-import React from "react";
+import * as React from "react";
+import ReactAudioPlayer from 'react-audio-player';
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import './app.css';
 
-export default function Teste() {
-  return (
-    <div>
+function Teste() {
+    return (
+      <>
+        <main>
+          <div className="App">
           <p><br /></p>
-      <iframe
-        src="https://player.aovivotv.xyz/channels/globonews"
-        frameborder="0"
-        width="100%" height="450px"
-        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        title="video"
-      />{" "}
-                  <div className="nave">
-      <nav>
-      <p><br /></p>
-      <Link to="/">Home</Link>
+        <div className='pele'>
+          <h2>Top hits</h2>
+          <img class="fit-picture"
+            src="https://1.bp.blogspot.com/-mvFZTJD3EqA/YUaZpxM510I/AAAAAAAABHg/EW790K3rrfIxt3KPjpk5kx8WzgqJcstRACLcBGAsYHQ/s0/mradio.png"
+            alt="Grapefruit slice atop a pile of other slices"></img>
+          <ReactAudioPlayer
+            src="http://stream.zeno.fm/wpgty99taphvv"
+            controls
+          /></div>
+  
+    
+      </div>
+        </main>
+        <p><br /></p>
+        <div className="nave">
+        <nav>
+        <p><br /></p>
+        <Link to="/">Home</Link>
 
-<p><br /></p>
+        <p><br /></p>
+          
+  
+        </nav></div>
+      </>
+    );
+  }
 
-      </nav></div></div>
-
-  );
-}
-
-
-
-
-
+  export default  Teste;
