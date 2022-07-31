@@ -3,6 +3,9 @@ import Navbar from './components/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+
+
+
 import Porcategoria from './components/pages/Porcategoria';
 import TVs from './components/pages/TVs';
 import Acao from './components/pages/Acao';
@@ -149,6 +152,7 @@ import Reileao from './components/pages/Reileao';
 import Afilhadorei from './components/pages/Afilhadorei';
 import Otrapaceiro from './components/pages/Otrapaceiro';
 import Deencontrosam from './components/pages/Deencontrosam';
+import Acasadomedo from './components/pages/Acasadomedo';
 
 
 
@@ -165,22 +169,22 @@ function App() {
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/comedia' component={Comedia} />
-        <Route path='/2067' component={A2067} />
+        <Route path='/528085' component={A2067} />
         <Route path='/ficcao' component={Ficcao} />
         <Route path='/romance' component={Romance} />
-        <Route path='/acertodecontas' component={Acertodecontas} />
+        <Route path='/91333' component={Acertodecontas} />
         <Route path='/aparelhagens' component={Aparelhagens} />
         <Route path='/atualidade' component={Atualidade} />
         <Route path='/diario' component={Diario} />
         <Route path='/graopara' component={Graopara} />
         <Route path='/boasnovas' component={Boasnovas} />
         <Route path='/fmodia' component={Fmodia} />
-        <Route path='/aformadaagua' component={Aformadaagua} />
+        <Route path='/399055' component={Aformadaagua} />
         <Route path='/rba' component={Rba} />
         <Route path='/recordnews' component={Recordnews} />
         <Route path='/sbt' component={Sbt} />
         <Route path='/agoraestamossos' component={Agoraestamossos} />
-        <Route path='/assasinatosdopassado' component={Assasinatosdopassado} />
+        <Route path='/191137' component={Assasinatosdopassado} />
         <Route path='/airplanevsvolcano' component={Airplanevsvolcano} />
         <Route path='/ajusticeira' component={Ajusticeira} />
         <Route path='/albertnobbs' component={Albertnobbs} />
@@ -235,7 +239,7 @@ function App() {
         <Route path='/relacaoexplosiva' component={Relacaoexplosiva} />
         <Route path='/ruslan' component={Ruslan} />
         <Route path='/sextafeira13' component={Sextafeira13} />
-        <Route path='/sonic' component={Sonic} />
+        <Route path='/454626' component={Sonic} />
         <Route path='/tempo' component={Tempo} />
         <Route path='/umamorprarecordar' component={Umamorprarecordar} />
         <Route path='/ummatchsurpresa' component={Ummatchsurpresa} />
@@ -285,7 +289,7 @@ function App() {
         <Route path='/pagandobqmt' component={Pagandobqmt} />
         <Route path='/aventura' component={Aventura} />
         <Route path='/gossebump2' component={Gossebump2} />
-        <Route path='/aeradogelo2' component={Aeradogelo2} />
+        <Route path='/950' component={Aeradogelo2} />
         <Route path='/tresninjas' component={Tresninjas} />
         <Route path='/ocavaleirod' component={Ocavaleirod} />
         <Route path='/boltsc' component={Boltsc} />
@@ -302,9 +306,10 @@ function App() {
         <Route path='/sereia2' component={Sereia2} />
         <Route path='/scooby' component={Scooby} />
         <Route path='/reileao' component={Reileao} />
-        <Route path='/afilhadorei' component={Afilhadorei} />
+        <Route path='/245842' component={Afilhadorei} />
         <Route path='/otrapaceiro' component={Otrapaceiro} />
         <Route path='/deencontrosam' component={Deencontrosam} />
+        <Route path='/322518' component={Acasadomedo} />
 
         
 
