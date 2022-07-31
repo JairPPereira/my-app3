@@ -153,6 +153,7 @@ import Afilhadorei from './components/pages/Afilhadorei';
 import Otrapaceiro from './components/pages/Otrapaceiro';
 import Deencontrosam from './components/pages/Deencontrosam';
 import Acasadomedo from './components/pages/Acasadomedo';
+import Details from './components/pages/det';
 
 
 
@@ -310,6 +311,7 @@ function App() {
         <Route path='/otrapaceiro' component={Otrapaceiro} />
         <Route path='/deencontrosam' component={Deencontrosam} />
         <Route path='/322518' component={Acasadomedo} />
+        <Route path='/det' component={Details} />
 
         
 
