@@ -184,9 +184,9 @@ function App() {
         <Route path='/rba' component={Rba} />
         <Route path='/recordnews' component={Recordnews} />
         <Route path='/sbt' component={Sbt} />
-        <Route path='/agoraestamossos' component={Agoraestamossos} />
+        <Route path='/451877' component={Agoraestamossos} />
         <Route path='/191137' component={Assasinatosdopassado} />
-        <Route path='/airplanevsvolcano' component={Airplanevsvolcano} />
+        <Route path='/258210' component={Airplanevsvolcano} />
         <Route path='/ajusticeira' component={Ajusticeira} />
         <Route path='/albertnobbs' component={Albertnobbs} />
         <Route path='/alemdohorizonte' component={Alemdohorizonte} />
@@ -261,7 +261,7 @@ function App() {
         <Route path='/jogandocomoamor' component={Jogandocomoamor} />
         <Route path='/loucamenteapaixonados' component={Loucamenteapaixonados} />
         <Route path='/cadaveresardm' component={Cadaveresardm} />
-        <Route path='/agentesduplos' component={Agentesduplos} />
+        <Route path='/505579' component={Agentesduplos} />
         <Route path='/aslaminasdje' component={Aslaminasdje} />
         <Route path='/ogritodamorte' component={Ogritodamorte} />
         <Route path='/drama' component={Drama} />

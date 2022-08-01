@@ -5,6 +5,7 @@ import './videoapp.css';
 
  
 class Agoraestamossos extends Component {
+    
     player = {}
     state = {
         video: {
