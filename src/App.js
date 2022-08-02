@@ -194,7 +194,7 @@ function App() {
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/277' component={Anjosdanoite} />
         <Route path='/11688' component={Anovaondadoimperador} />
-        <Route path='/aqualquerpreco' component={Aqualquerpreco} />
+        <Route path='/9422' component={Aqualquerpreco} />
         <Route path='/assasinosdealuguel' component={Assasinosdealuguel} />
         <Route path='/batalhadosimperios' component={Batalhadosimperios} />
         <Route path='/bloodrayne3' component={Bloodrayne3} />
@@ -298,7 +298,7 @@ function App() {
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/pedrocoelho2' component={Pedrocoelho2} />
         <Route path='/eternos' component={Eternos} />
-        <Route path='/apenasus' component={Apenasus} />
+        <Route path='/354857' component={Apenasus} />
         <Route path='/operacoese' component={Operacoese} />
         <Route path='/momentum' component={Momentum} />
         <Route path='/trovao' component={Trovao} />
