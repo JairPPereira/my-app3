@@ -71,13 +71,7 @@ class Acasadomedo extends Component {
 <p><br /></p>
 
       </nav></div>
-            <iframe
-            src="https://www.themoviedb.org/movie/476299-incident-in-a-ghost-land?language=pt-BR"
-            frameborder="0"
-            width="100%" height="480px"
-      
-            title="video"
-          />{" "}</div>
+           {" "}</div>
             
         );
     }

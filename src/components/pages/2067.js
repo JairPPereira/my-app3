@@ -73,13 +73,7 @@ class A2067 extends Component {
       <p><br /></p>
 
 </nav></div>
-      <iframe
-      src="https://www.themoviedb.org/movie/528085-2067?language=pt-BR"
-      frameborder="0"
-      width="100%" height="480px"
-
-      title="video"
-    />{" "}</div> 
+  {" "}</div> 
             
         );
     }

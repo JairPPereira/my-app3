@@ -71,13 +71,7 @@ class Aeradogelo2 extends Component {
        <p><br /></p>
 
 </nav></div>
-      <iframe
-      src="https://www.themoviedb.org/movie/950-ice-age-the-meltdown?language=pt-BR"
-      frameborder="0"
-      width="100%" height="480px"
-
-      title="video"
-    />{" "}</div>    
+{" "}</div>    
             
         );
     }
