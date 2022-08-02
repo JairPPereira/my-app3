@@ -12,13 +12,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
 
-  return (
-    <>
-      <h1 className='home'>
+  return (<center>
+    <div>
+      <div className='home'>
       <div className="nave">
       <div className="mb-2">
 
-      </div>
+      </div></div></div>
         <nav>
         <p><br /></p>
         <Link to="/Daaz"><Button variant="primary" size="lg" width="80%">
@@ -63,16 +63,19 @@ export default function Home() {
     <Container fluid="md">
       <Row>
         <Col>Ajude a manter nosso site</Col>
-        <Col>Pix: jairppereira21@gmail.com</Col>
+      
+      </Row>
+      <Row>
+      <Col>Pix: jairppereira21@gmail.com</Col>
       </Row>
     </Container>
        
 
-        <p><br /></p></div>
-</h1>
+        <p><br /></p></div></center>
 
-    </>
-        
+
+   
+    
         
          
   );
