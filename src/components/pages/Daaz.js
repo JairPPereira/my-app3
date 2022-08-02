@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Container, Movie, MovieList } from './styles';
+import Button from 'react-bootstrap/Button';
 
 function Todosf() {
 
@@ -26,7 +27,11 @@ function Todosf() {
             <Link to={`/${movie.id}`}>
               <img src={`${imagePath}${movie.poster_path}`} alt={movie.title}/>
             </Link>
+            
             <span>{movie.title}</span>
+            <span><Link to="/Daaz"><Button variant="primary" size="lg" width="80%">
+          Filmes de A a Z
+        </Button></Link></span>
             
           </Movie>
         )

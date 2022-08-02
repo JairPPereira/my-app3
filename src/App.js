@@ -29,7 +29,7 @@ import Sbt from './components/pages/Sbt';
 import Agoraestamossos from './components/pages/Agoraestamossos';
 import Assasinatosdopassado from './components/pages/Assasinatosdopassado';
 import Airplanevsvolcano from './components/pages/Airplanevsvolcano';
-import Ajusticeira from './components/pages/Ajusticeira';
+import Ajusticeira from './components/pages/261037';
 import Albertnobbs from './components/pages/Albertnobbs';
 import Alemdohorizonte from './components/pages/Alemdohorizonte';
 import Alendadjj from './components/pages/Alendadjj';
@@ -187,7 +187,7 @@ function App() {
         <Route path='/451877' component={Agoraestamossos} />
         <Route path='/191137' component={Assasinatosdopassado} />
         <Route path='/258210' component={Airplanevsvolcano} />
-        <Route path='/261937' component={Ajusticeira} />
+        <Route path='/261037' component={Ajusticeira} />
         <Route path='/albertnobbs' component={Albertnobbs} />
         <Route path='/alemdohorizonte' component={Alemdohorizonte} />
         <Route path='/alendadjj' component={Alendadjj} />
@@ -311,7 +311,7 @@ function App() {
         <Route path='/otrapaceiro' component={Otrapaceiro} />
         <Route path='/deencontrosam' component={Deencontrosam} />
         <Route path='/322518' component={Acasadomedo} />
-        <Route path='/det' component={Details} />
+        <Route path='/details/:id' component={Details} />
 
         
 

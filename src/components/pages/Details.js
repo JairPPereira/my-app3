@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Container } from './styles';
+import Button from 'react-bootstrap/Button';
 
 function Details() {
   const { id } = useParams()
@@ -34,8 +35,13 @@ function Details() {
         <span>Sinopse: {movie.sinopse}</span>
         <span className='release-date'>Release date: {movie.releaseDate}</span>
         <Link to="/"><button>Go Back</button></Link>
+        <span><Link to={`/details/${movie.id}`}><button>Go Back</button></Link></span>
+        <span><Link to={`/${movie.id}`}><Button variant="primary" size="lg" width="80%">
+          Filmes de A a Z
+        </Button></Link></span>
       </div>
     </div>
+    
     </Container>
   );
 }
