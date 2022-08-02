@@ -195,7 +195,7 @@ function App() {
         <Route path='/277' component={Anjosdanoite} />
         <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/9422' component={Aqualquerpreco} />
-        <Route path='/assasinosdealuguel' component={Assasinosdealuguel} />
+        <Route path='/122800' component={Assasinosdealuguel} />
         <Route path='/batalhadosimperios' component={Batalhadosimperios} />
         <Route path='/bloodrayne3' component={Bloodrayne3} />
         <Route path='/cargaexplosiva3' component={Cargaexplosiva3} />
@@ -247,7 +247,7 @@ function App() {
         <Route path='/ummotoristaemapuros' component={Ummotoristaemapuros} />
         <Route path='/umnegocioderisco' component={Umnegocioderisco} />
         <Route path='/umpobretaoncsb' component={Umpobretaoncsb} />
-        <Route path='/ascensaoeqdui' component={Ascensaoeqdui} />
+        <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/homemaranha2' component={Homemaranha2} />
         <Route path='/supermurali' component={Supermurali} />
         <Route path='/terror' component={Terror} />
@@ -271,7 +271,7 @@ function App() {
         <Route path='/fudingyou' component={Fundingyou} />
         <Route path='/test' component={Teste} />
         <Route path='/fugindodopassado' component={Fungindodopassado} />
-        <Route path='/atravessia' component={Atravessia} />
+        <Route path='/391486' component={Atravessia} />
         <Route path='/aturmadamonica' component={Aturmadamonica} />
         <Route path='/series' component={Series} />
         <Route path='/playlistyou' component={Playlistyou} />
