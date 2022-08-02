@@ -187,7 +187,7 @@ function App() {
         <Route path='/451877' component={Agoraestamossos} />
         <Route path='/191137' component={Assasinatosdopassado} />
         <Route path='/258210' component={Airplanevsvolcano} />
-        <Route path='/ajusticeira' component={Ajusticeira} />
+        <Route path='/261937' component={Ajusticeira} />
         <Route path='/albertnobbs' component={Albertnobbs} />
         <Route path='/alemdohorizonte' component={Alemdohorizonte} />
         <Route path='/alendadjj' component={Alendadjj} />
