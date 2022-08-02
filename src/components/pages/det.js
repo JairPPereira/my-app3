@@ -1,6 +1,7 @@
 //import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import Button from 'react-bootstrap/Button';
 
 import { Container } from './styles';
 
@@ -26,10 +27,10 @@ function Details() {
     })
   }, [id])
 
-  return (<>
+  return (
     <Container>
       <div className="movie">
-      <img src={movie.image} alt={movie.sinopse}/>
+    
      
       <div className="details">
         <h1>{movie.title}</h1>
@@ -39,9 +40,11 @@ function Details() {
         <span className='release-date'>Release date: {movie.releaseDate}</span>
        
 
-        <Link to="/"><button>Go Back</button></Link></div>
+       </div>
          
-       
+        <span><Link to={`/${movie.id}`}><Button variant="primary" size="lg" width="80%">
+          Assistir
+        </Button></Link></span>
 
      
 
@@ -50,7 +53,7 @@ function Details() {
     </Container>
 
     
-</>
+
   );
 }
 
