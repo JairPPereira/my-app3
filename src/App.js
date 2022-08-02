@@ -193,7 +193,7 @@ function App() {
         <Route path='/alendadjj' component={Alendadjj} />
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/277' component={Anjosdanoite} />
-        <Route path='/anovaondadoimperador' component={Anovaondadoimperador} />
+        <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/aqualquerpreco' component={Aqualquerpreco} />
         <Route path='/assasinosdealuguel' component={Assasinosdealuguel} />
         <Route path='/batalhadosimperios' component={Batalhadosimperios} />
