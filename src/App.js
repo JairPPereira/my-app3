@@ -196,7 +196,7 @@ function App() {
         <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/9422' component={Aqualquerpreco} />
         <Route path='/122800' component={Assasinosdealuguel} />
-        <Route path='/batalhadosimperios' component={Batalhadosimperios} />
+        <Route path='/300168' component={Batalhadosimperios} />
         <Route path='/bloodrayne3' component={Bloodrayne3} />
         <Route path='/cargaexplosiva3' component={Cargaexplosiva3} />
         <Route path='/cacadoresderecompensas' component={Cacadoresderecompensas} />

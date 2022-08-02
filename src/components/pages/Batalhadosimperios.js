@@ -3,7 +3,7 @@ import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
- 
+  
 class Batalhadosimperios extends Component {
     player = {}
     state = {
