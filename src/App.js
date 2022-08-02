@@ -188,11 +188,11 @@ function App() {
         <Route path='/191137' component={Assasinatosdopassado} />
         <Route path='/258210' component={Airplanevsvolcano} />
         <Route path='/261037' component={Ajusticeira} />
-        <Route path='/albertnobbs' component={Albertnobbs} />
-        <Route path='/alemdohorizonte' component={Alemdohorizonte} />
+        <Route path='/73873' component={Albertnobbs} />
+        <Route path='/271404' component={Alemdohorizonte} />
         <Route path='/alendadjj' component={Alendadjj} />
-        <Route path='/amorzumbi' component={Amorzumbi} />
-        <Route path='/anjosdanoite' component={Anjosdanoite} />
+        <Route path='/77067' component={Amorzumbi} />
+        <Route path='/277' component={Anjosdanoite} />
         <Route path='/anovaondadoimperador' component={Anovaondadoimperador} />
         <Route path='/aqualquerpreco' component={Aqualquerpreco} />
         <Route path='/assasinosdealuguel' component={Assasinosdealuguel} />
