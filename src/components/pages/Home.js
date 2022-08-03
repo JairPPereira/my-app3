@@ -19,7 +19,9 @@ export default function Home() {
       <div className="mb-2">
 
       </div></div></div>
+      
         <nav>
+        <p><br /></p>
         <p><br /></p>
         <Link to="/Daaz"><Button variant="primary" size="lg" width="80%">
           Filmes de A a Z
