@@ -154,6 +154,7 @@ import Otrapaceiro from './components/pages/Otrapaceiro';
 import Deencontrosam from './components/pages/Deencontrosam';
 import Acasadomedo from './components/pages/Acasadomedo';
 import Details from './components/pages/det';
+import Daaz2 from './components/pages/Daaz2';
 
 
 
@@ -312,6 +313,7 @@ function App() {
         <Route path='/deencontrosam' component={Deencontrosam} />
         <Route path='/322518' component={Acasadomedo} />
         <Route path='/details/:id' component={Details} />
+        <Route path='/daaz2' component={Daaz2} />
 
         
 
