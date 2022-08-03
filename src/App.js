@@ -201,9 +201,9 @@ function App() {
         <Route path='/12685' component={Bloodrayne3} />
         <Route path='/13387' component={Cargaexplosiva3} />
         <Route path='/209504' component={Cacadoresderecompensas} />
-        <Route path='/chef' component={Chef} />
-        <Route path='/codigodeconduta' component={Codigodeconduta} />
-        <Route path='/coragemparaamar' component={Coragemparaamar} />
+        <Route path='/212778' component={Chef} />
+        <Route path='/22803' component={Codigodeconduta} />
+        <Route path='/461958' component={Coragemparaamar} />
         <Route path='/cosmopolis' component={Cosmopolis} />
         <Route path='/criatura' component={Criatura} />
         <Route path='/cubo' component={Cubo} />
@@ -254,7 +254,7 @@ function App() {
         <Route path='/terror' component={Terror} />
         <Route path='/suspense' component={Suspense} />
         <Route path='/stretfp' component={Stretfp} />
-        <Route path='/codinome7' component={Codinome7} />
+        <Route path='/73499' component={Codinome7} />
         <Route path='/umjovememapuros' component={Umjovememapuros} />
         <Route path='/tudopraficarcomela' component={Tudopraficarcomela} />
         <Route path='/odoadordememorias' component={Odoadordememorias} />
@@ -304,7 +304,7 @@ function App() {
         <Route path='/momentum' component={Momentum} />
         <Route path='/trovao' component={Trovao} />
         <Route path='/pokemon' component={Pokemon} />
-        <Route path='/centauro' component={Centauro} />
+        <Route path='/852592' component={Centauro} />
         <Route path='/sereia2' component={Sereia2} />
         <Route path='/scooby' component={Scooby} />
         <Route path='/reileao' component={Reileao} />
