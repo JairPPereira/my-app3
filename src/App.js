@@ -311,7 +311,7 @@ function App() {
         <Route path='/245842' component={Afilhadorei} />
         <Route path='/otrapaceiro' component={Otrapaceiro} />
         <Route path='/deencontrosam' component={Deencontrosam} />
-        <Route path='/322518' component={Acasadomedo} />
+        <Route path='476299' component={Acasadomedo} />
         <Route path='/details/:id' component={Details} />
         <Route path='/daaz2' component={Daaz2} />
 
