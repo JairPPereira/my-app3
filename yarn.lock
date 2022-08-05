@@ -3816,10 +3816,10 @@
   "resolved" "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.23.5.tgz"
   "version" "3.23.5"
 
-"core-js@^3.19.2":
-  "integrity" "sha512-7Vh11tujtAZy82da4duVreQysIoO2EvVrur7y6IzZkH1IHPSekuDi8Vuw1+YKjkbfWLRD7Nc9ICQ/sIUDutcyg=="
-  "resolved" "https://registry.npmjs.org/core-js/-/core-js-3.23.5.tgz"
-  "version" "3.23.5"
+"core-js@^3.19.2", "core-js@^3.24.1":
+  "integrity" "sha512-0QTBSYSUZ6Gq21utGzkfITDylE8jWC9Ne1D2MrhvlsZBI1x39OdDIVbzSqtgMndIy6BlHxBXpMGqzZmnztg2rg=="
+  "resolved" "https://registry.npmjs.org/core-js/-/core-js-3.24.1.tgz"
+  "version" "3.24.1"
 
 "core-util-is@~1.0.0":
   "integrity" "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ=="
