@@ -155,6 +155,7 @@ import Deencontrosam from './components/pages/Deencontrosam';
 import Acasadomedo from './components/pages/Acasadomedo';
 import Details from './components/pages/det';
 import Daaz2 from './components/pages/Daaz2';
+import Daaz3 from './components/pages/Daaz3';
 
 
 
@@ -167,6 +168,7 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/porcategoria' component={Porcategoria} />
         <Route path='/daaz' component={Daaz} />
+        <Route path='/daaz3' component={Daaz3} />
         <Route path='/tvs' component={TVs} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
@@ -204,11 +206,11 @@ function App() {
         <Route path='/212778' component={Chef} />
         <Route path='/22803' component={Codigodeconduta} />
         <Route path='/461958' component={Coragemparaamar} />
-        <Route path='/cosmopolis' component={Cosmopolis} />
-        <Route path='/criatura' component={Criatura} />
-        <Route path='/cubo' component={Cubo} />
-        <Route path='/distrito13o' component={Distrito13o} />
-        <Route path='/duna' component={Duna} />
+        <Route path='/49014' component={Cosmopolis} />
+        <Route path='/73963' component={Criatura} />
+        <Route path='/792678' component={Cubo} />
+        <Route path='/15357' component={Distrito13o} />
+        <Route path='/438631' component={Duna} />
         <Route path='/embuscadevinganca' component={Embuscadevinganca} />
         <Route path='/entreirmaos' component={Entreirmaos} />
         <Route path='/entreoamoreafama' component={Entreoamoreafama} />
