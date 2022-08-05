@@ -12,14 +12,14 @@ function Details() {
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
   useEffect(() => {
-    fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    fetch(`https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PL-7ezpvNmHiBW8VP3VOvSGrg_kAqhQkc4&key=AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI`)
     .then(response => response.json())
     .then(data => {
-      const {title, poster_path, release_date, overview} = data
+      const {title, release_date, overview} = data
       const movie = {
         id,
         title,
-        image: `${imagePath}${poster_path}`,
+        imagePath,
         sinopse: overview,
         releaseDate: release_date
       }
