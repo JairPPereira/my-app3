@@ -156,6 +156,7 @@ import Acasadomedo from './components/pages/Acasadomedo';
 import Details from './components/pages/det';
 import Daaz2 from './components/pages/Daaz2';
 import Daaz3 from './components/pages/Daaz3';
+import Detyou from './components/pages/Detyou';
 
 
 
@@ -169,6 +170,7 @@ function App() {
         <Route path='/porcategoria' component={Porcategoria} />
         <Route path='/daaz' component={Daaz} />
         <Route path='/daaz3' component={Daaz3} />
+        <Route path='/detyou' component={Detyou} />
         <Route path='/tvs' component={TVs} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
