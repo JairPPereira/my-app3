@@ -161,6 +161,7 @@ import Daaz3 from './components/pages/Daaz3';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -317,6 +318,7 @@ function App() {
         <Route path='476299' component={Acasadomedo} />
         <Route path='/details/:id' component={Details} />
         <Route path='/daaz2' component={Daaz2} />
+   
 
         
 
