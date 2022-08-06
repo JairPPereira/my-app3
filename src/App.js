@@ -217,7 +217,7 @@ function App() {
         <Route path='/7445' component={Entreirmaos} />
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/522402' component={Finch} />
-        <Route path='/ghostland' component={Ghostland} />
+        <Route path='/523638' component={Ghostland} />
         <Route path='/homemaranha' component={Homemaranha} />
         <Route path='/hoteldosdinossauros' component={Hoteldosdinossauros} />
         <Route path='/Jesuskid' component={Jesuskid} />
@@ -273,9 +273,9 @@ function App() {
         <Route path='/kv1' component={Kv1} />
         <Route path='/osorrisodelaura' component={Osorrisodelaura} />
         <Route path='/ocomitedd' component={Ocomitedd} />
-        <Route path='/fudingyou' component={Fundingyou} />
+        <Route path='/769749' component={Fundingyou} />
         <Route path='/test' component={Teste} />
-        <Route path='/fugindodopassado' component={Fungindodopassado} />
+        <Route path='/23520' component={Fungindodopassado} />
         <Route path='/391486' component={Atravessia} />
         <Route path='/aturmadamonica' component={Aturmadamonica} />
         <Route path='/series' component={Series} />
@@ -299,7 +299,7 @@ function App() {
         <Route path='/tresninjas' component={Tresninjas} />
         <Route path='/ocavaleirod' component={Ocavaleirod} />
         <Route path='/13053' component={Boltsc} />
-        <Route path='/gatodebotas' component={Gatodebotas} />
+        <Route path='/417859' component={Gatodebotas} />
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/pedrocoelho2' component={Pedrocoelho2} />
         <Route path='/524434' component={Eternos} />
