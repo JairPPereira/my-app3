@@ -212,10 +212,10 @@ function App() {
         <Route path='/792678' component={Cubo} />
         <Route path='/15357' component={Distrito13o} />
         <Route path='/438631' component={Duna} />
-        <Route path='/embuscadevinganca' component={Embuscadevinganca} />
-        <Route path='/entreirmaos' component={Entreirmaos} />
-        <Route path='/entreoamoreafama' component={Entreoamoreafama} />
-        <Route path='/finch' component={Finch} />
+        <Route path='/390051' component={Embuscadevinganca} />
+        <Route path='/7445' component={Entreirmaos} />
+        <Route path='/495386' component={Entreoamoreafama} />
+        <Route path='/522402' component={Finch} />
         <Route path='/ghostland' component={Ghostland} />
         <Route path='/homemaranha' component={Homemaranha} />
         <Route path='/hoteldosdinossauros' component={Hoteldosdinossauros} />
@@ -301,7 +301,7 @@ function App() {
         <Route path='/gatodebotas' component={Gatodebotas} />
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/pedrocoelho2' component={Pedrocoelho2} />
-        <Route path='/eternos' component={Eternos} />
+        <Route path='/524434' component={Eternos} />
         <Route path='/354857' component={Apenasus} />
         <Route path='/operacoese' component={Operacoese} />
         <Route path='/momentum' component={Momentum} />
