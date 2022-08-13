@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Acasadomedo extends Component {
+class Mulheresaomar2 extends Component {
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4",
+            src: "https://siloh.pluto.tv/c6009f_pluto/clip/5ff344a3042d2a001a20ab22_SOS_Mulheres_Ao_Mar_2_BR/720p/20210104_083900/hls/0-end/master.m3u8",
 
             poster: ""
         }
@@ -51,7 +51,6 @@ class Acasadomedo extends Component {
                     controls={true}
                     src={this.state.video.src}
                     poster={this.state.video.poster}
-                    aspectRatio= "4:3"
                     width="720px" 
                     height="auto"
                     onReady={this.onPlayerReady.bind(this)}
@@ -70,10 +69,9 @@ class Acasadomedo extends Component {
 
 <p><br /></p>
 
-      </nav></div>
-           {" "}</div>
+      </nav></div></div>
             
         );
     }
 }
-export default Acasadomedo;
+export default Mulheresaomar2;

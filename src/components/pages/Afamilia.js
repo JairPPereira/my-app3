@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import VideoPlayer from 'react-video-js-player';
-import { Link } from 'react-router-dom';
 import './videoapp.css';
+import { Link } from 'react-router-dom';
 
  
-class Acasadomedo extends Component {
+class Afamilia extends Component {
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4",
+            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdbyqlyk/format/applehttp/protocol/https/flavorIds/1_fd37tw6k,1_tc7g5efs,1_d0w1qnop,1_8nfainee,1_29i9sy7m,1_0ihd9ech,1_l076vtuq/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1660048831&id=4857&ip=206.84.34.206&override_expiration=1500&sign=jcQX2AxprbCgNm4B1JXcqxc74nq%2BBTO6978fGk6M8B8%3D&playSessionId=a382e1c8-33dc-7b0d-e905-436144253165:f4249a4f-6d56-e2ad-67e7-700ccf349c9b&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2ZhbWlsaWE=&clientTag=html5:v7.50",
 
             poster: ""
         }
@@ -62,18 +62,18 @@ class Acasadomedo extends Component {
                     onSeeked={this.onVideoSeeked.bind(this)}
                     onEnd={this.onVideoEnd.bind(this)}
                 />
-                    <p><br /></p> 
-               <div className="nave">
-      <nav>
-      <p><br /></p>
-      <Link to="/">Home</Link>
+                <p><br /></p> 
+                <div className="nave">
+       <nav>
+       <p><br /></p>
+       <Link to="/">Home</Link>
 
-<p><br /></p>
+       <p><br /></p>
 
-      </nav></div>
-           {" "}</div>
+</nav></div>
+{" "}</div>    
             
         );
     }
 }
-export default Acasadomedo;
+export default Afamilia;

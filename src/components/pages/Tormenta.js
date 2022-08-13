@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Acasadomedo extends Component {
+class Tormenta extends Component {
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4",
+            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ljqd571u/format/applehttp/protocol/https/flavorIds/1_byghxqq3,1_nci7y360,1_hna7x9gg,1_vn1y05ri,1_5db4w4az,1_yd29giaj,1_n9gap8kb/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1660164999&id=6263&ip=167.249.209.148&override_expiration=1500&sign=Guaub23CxYqJe9WvCWwKMaRWZeHZCvoVca9S%2BI3ToBs%3D&playSessionId=29273787-d380-3ccb-1a0e-f9b56a934fa5:e21112f7-82e1-e9f5-9dee-c910d9a3b2dd&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3Rvcm1lbnRh&clientTag=html5:v7.50",
 
             poster: ""
         }
@@ -51,7 +51,6 @@ class Acasadomedo extends Component {
                     controls={true}
                     src={this.state.video.src}
                     poster={this.state.video.poster}
-                    aspectRatio= "4:3"
                     width="720px" 
                     height="auto"
                     onReady={this.onPlayerReady.bind(this)}
@@ -70,10 +69,9 @@ class Acasadomedo extends Component {
 
 <p><br /></p>
 
-      </nav></div>
-           {" "}</div>
+      </nav></div></div>
             
         );
     }
 }
-export default Acasadomedo;
+export default Tormenta;

@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Acasadomedo extends Component {
+class Aeradogelob extends Component {
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4",
+            src: "https://video.wixstatic.com/video/e16db6_d5b316180390481f901eee4fb7329687/1080p/mp4/file.mp4",
 
             poster: ""
         }
@@ -76,4 +76,4 @@ class Acasadomedo extends Component {
         );
     }
 }
-export default Acasadomedo;
+export default Aeradogelob;

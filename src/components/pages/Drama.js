@@ -1,35 +1,49 @@
-import React from 'react';
-import '../../App.css';
-import {Link } from "react-router-dom";
+import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { Container, Movie, MovieList } from './styles';
+import Button from 'react-bootstrap/Button';
 
-export default function Drama() {
+
+function Drama() {
+
+  const imagePath = 'https://image.tmdb.org/t/p/w500/'
+
+  const [movies, setMovies] = useState([])
+
+  useEffect(() => {
+    fetch(`https://api.themoviedb.org/4/list/8212909?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    .then(response => response.json())
+    .then(data => {
+      setMovies(data.results)
+    })
+  }, [])
 
   return (
-    <>
-      <h1 className='comedia'>
 
-        <nav>
-      <p><br /></p>
-      <Link to="./Kv1">Kv1 - Almas de ferro</Link>
-      <p><br /></p>
-      <Link to="./Finch">Finch</Link>
-      <p><br /></p>
-      <Link to="./Fudingyou">Funding you</Link>
-      <p><br /></p>
-      <Link to="./Ocomitedd">O comitê de Deus</Link>
-      <p><br /></p>
-      <Link to="./Osorrisodelaura">O sorriso de Laura</Link>
-      <p><br /></p>
+  <Container>
+      <MovieList>
+      {movies.map(movie => {
+        return (
+          <Movie key={movie.id}>
+            <Link to={`/details/${movie.id}`}>
+              <img src={`${imagePath}${movie.poster_path}`} alt={movie.title}/>
+            </Link>
+            
+            <span>{movie.title}</span>
 
+          </Movie>
+        )
+      })}
+      </MovieList>
+     <center>
+        <div class="btn-group" role="group" aria-label="Exemplo básico">
 
-
-     
-      </nav></h1>
-
-    </>
-        
-        
-         
+  <Link to="/drama"><Button variant="primary" size="lg" width="80%">
+          Proxima pagina
+        </Button></Link>
+</div></center>
+    </Container>
   );
 }
 
+export default Drama;
