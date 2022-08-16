@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Mariasangrenta extends Component {
+class Encanto extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/366_pluto/clip/626839b6baa39e0013e50e1b_Bloody_Mary_BR/720p/20220426_112807/hls/0-end/master.m3u8",
+            src: "https://video.wixstatic.com/video/e16db6_50512742777b4bdb827353d28ed4f7bb/720p/mp4/file.mp4",
 
             poster: ""
         }
@@ -74,4 +74,4 @@ class Mariasangrenta extends Component {
         );
     }
 }
-export default Mariasangrenta;
+export default Encanto;

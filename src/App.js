@@ -190,6 +190,26 @@ import Amaldicaodi from './components/pages/Amaldicaodi';
 import Aviuvads from './components/pages/Aviuvads';
 import Embuscadaliberdade from './components/pages/Embuscadaliberdade';
 import Tudoporjustica from './components/pages/Tudoporjusitca';
+import Assasinosde from './components/pages/Assasinosde';
+import Loucaspade from './components/pages/Loucaspade';
+import Batman from './components/pages/Batman';
+import Matrixr from './components/pages/Matrixr';
+import Encanto from './components/pages/Encanto';
+import Osdozemacacos from './components/pages/Osdozemacacos';
+import Osdozec from './components/pages/Osdozec';
+import Omercadordv from './components/pages/Omercadordv';
+import Omensageiro from './components/pages/Omensageiro';
+import Higthschool from './components/pages/Higthschool';
+import Oprecodg from './components/pages/Oprecodg';
+import Porquees from './components/pages/Porquees';
+import Nezhacpv from './components/pages/Nezhacpv';
+import Terrorns from './components/pages/Terrorns';
+import Daaz8 from './components/pages/Daaz8';
+import Emnomedopai from './components/pages/Emnomedopai';
+import Ateofinal from './components/pages/Ateofinal';
+import Aturmadam24 from './components/pages/Aturmadam24';
+import Gamert1e1 from './components/pages/Gamert1e1';
+import Gameoft from './components/pages/Gameoft';
 
 
 
@@ -206,8 +226,13 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/porcategoria' component={Porcategoria} />
         <Route path='/daaz' component={Daaz} />
+        <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
+        <Route path='/daaz4' component={Daaz4} />
         <Route path='/daaz5' component={Daaz5} />
+        <Route path='/daaz6' component={Daaz6} />
+        <Route path='/daaz7' component={Daaz7} />
+        <Route path='/daaz8' component={Daaz8} />
         <Route path='/tvs' component={TVs} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
@@ -352,9 +377,6 @@ function App() {
         <Route path='/79465' component={Otrapaceiro} />
         <Route path='/deencontrosam' component={Deencontrosam} />
         <Route path='/details/:id' component={Details} />
-        <Route path='/daaz2' component={Daaz2} />
-        <Route path='/daaz4' component={Daaz4} />
-        <Route path='/daaz6' component={Daaz6} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/829557' component={Diashoje} />
         <Route path='/acao2' component={Acao2} />
@@ -381,14 +403,31 @@ function App() {
         <Route path='/308695' component={Alegiao} />
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/11937' component={Osdeusesdel2} />
-        <Route path='/daaz7' component={Daaz7} />
         <Route path='/82693' component={Oladobomdavida} />
         <Route path='/759175' component={Aprincesa} />
         <Route path='/540291' component={Amaldicaodi} />
         <Route path='/579872' component={Aviuvads} />
         <Route path='/346684' component={Embuscadaliberdade} />
         <Route path='/164457' component={Tudoporjustica} />
-        
+        <Route path='/146631' component={Assasinosde} />
+        <Route path='/12085' component={Loucaspade} />
+        <Route path='/414906' component={Batman} />
+        <Route path='/624860' component={Matrixr} />
+        <Route path='/568124' component={Encanto} />
+        <Route path='/63' component={Osdozemacacos} />
+        <Route path='/1654' component={Osdozec} />
+        <Route path='/11162' component={Omercadordv} />
+        <Route path='/402423' component={Omensageiro} />
+        <Route path='/23367' component={Higthschool} />
+        <Route path='/422821' component={Oprecodg} />
+        <Route path='/96933' component={Porquees} />
+        <Route path='/781456' component={Nezhacpv} />
+        <Route path='/504198' component={Terrorns} />
+        <Route path='/770428' component={Emnomedopai} />
+        <Route path='/707214' component={Ateofinal} />
+        <Route path='/aturmadam24' component={Aturmadam24} />
+        <Route path='/Gamert1e1' component={Gamert1e1} />
+        <Route path='/gameoft' component={Gameoft} />
         
         
    

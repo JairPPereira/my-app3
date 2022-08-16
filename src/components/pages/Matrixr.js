@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Alendadjj extends Component {
+class Matrixr extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/317_pluto/clip/626839d5baa39e0013e511a6_Jack_and_Jill_BR/720p/20220426_112838/hls/0-end/master.m3u8",
+            src: "https://video.wixstatic.com/video/e16db6_9e92d49aac0f44cc9cc3ac0fab1e6e59/720p/mp4/file.mp4",
 
             poster: ""
         }
@@ -74,4 +74,4 @@ class Alendadjj extends Component {
         );
     }
 }
-export default Alendadjj;
+export default Matrixr;

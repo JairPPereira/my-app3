@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import './videoapp.css';
 
  
-class Necroterio extends Component {
+class Omensageiro extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/833_pluto/clip/6192b17b1ff13a001a20c9a3_Mortuary_BR/720p/20211115_111404/hls/0-end/master.m3u8",
+            src: "https://siloh.pluto.tv/202_Sofa_Digital/clip/620e98a6bea7d6001351d6df_O_Mensageiro/720p/20220221_080020/hls/0-end/master.m3u8",
 
             poster: ""
         }
@@ -74,4 +74,4 @@ class Necroterio extends Component {
         );
     }
 }
-export default Necroterio;
+export default Omensageiro;
