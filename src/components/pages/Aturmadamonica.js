@@ -13,6 +13,7 @@ export default function Aturmadamonica() {
 
       <>
         <center>
+          <p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eWWTyTqXipqGqsGJOZ2T0evyJYQ.jpg" />
       <Card.Body>
@@ -26,7 +27,7 @@ Mônica</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yQMJDLeL82AyGn1N79ZdLvLLrEe.jpg" />
       <Card.Body>
@@ -40,7 +41,7 @@ Magali</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aYYBTWqjLUvmIAMKkNrgNWtdurM.jpg" />
       <Card.Body>
@@ -54,7 +55,7 @@ Cebolinha</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qwKJUzwCZFwnirFX4bmJLcJmggE.jpg" />
       <Card.Body>
@@ -68,7 +69,7 @@ Cascão</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dJSwqauI6VNcZeIhh9LBfpTiRXJ.jpg" />
       <Card.Body>
@@ -82,7 +83,7 @@ Milena</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kVO7GASjjEW2IlhbbSzq0MAc6o.jpg" />
       <Card.Body>
@@ -96,7 +97,7 @@ Perfeição</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2ipJtbOYrXgVL7bvPSYRmhG3uVL.jpg" />
       <Card.Body>
@@ -110,7 +111,7 @@ Segredo</Card.Title>
       </Card.Body>
     </Card></center>
 
-    <center>
+    <center><p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lbjZjowIsgLqOibhBp06DC35jdi.jpg" />
       <Card.Body>
@@ -122,7 +123,7 @@ Lama</Card.Title>
       Assistir
         </Button></Link>
       </Card.Body>
-    </Card></center>
+    </Card></center><p></p>
 
 
 
