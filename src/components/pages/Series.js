@@ -25,7 +25,7 @@ function Series() {
       {movies.map(movie => {
         return (
           <Movie key={movie.id}>
-            <Link to={`/details/${movie.id}`}>
+            <Link to={`/details2/${movie.id}`}>
               <img src={`${imagePath}${movie.poster_path}`} alt={movie.title}/>
             </Link>
             
