@@ -76,6 +76,19 @@ export default function TVs() {
 
 
         </nav></h1>
+        <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://wishapplist.monwindows.com/images/logos/cache/impg_0a94c203c264bfc_150_150.jpg" />
+      <Card.Body>
+        <Card.Title>Pluto TV</Card.Title>
+        <Card.Text><p2>A Pluto TV é uma aplicação que lhe permite ver mais de 100 canais de televisão portáteis para a Internet, gratuitamente em qualquer dispositivo, em qualquer lugar. Com este aplicativo, você também pode transmitir Pluto TV via Google Chromecast e assistir à oferta de TV em uma grande TV.</p2>
+        </Card.Text>
+        <Link to="./Plutotdam"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
 
     </>
 

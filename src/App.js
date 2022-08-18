@@ -221,6 +221,7 @@ import Drama2 from './components/pages/Drama2';
 import Apostolopauc from './components/pages/Apostolopauc';
 import Amordoentio from './components/pages/Amordoentio';
 import Gamert1e5 from './components/pages/Gamert1e5';
+import Plutotdam from './components/pages/Plutotdam';
 
 
 
@@ -450,6 +451,7 @@ function App() {
         <Route path='/39414' component={Tempodc} />
         <Route path='/127770' component={Apostolopauc} />
         <Route path='/875303' component={Amordoentio} />
+        <Route path='/plutotdam' component={Plutotdam} />
         
         
    
