@@ -214,6 +214,9 @@ import Details2 from './components/pages/Detail2';
 import Gameoftr from './components/pages/Gameoftr';
 import Gamert1e2 from './components/pages/Gamert1e2';
 import Gamert1e3 from './components/pages/Gamert1e3';
+import Assasinoapf from './components/pages/Assasinoapf';
+import Tempodc from './components/pages/Tempodc';
+import Gamert1e4 from './components/pages/Gamert1e4';
 
 
 
@@ -434,8 +437,11 @@ function App() {
         <Route path='/Gamert1e1' component={Gamert1e1} />
         <Route path='/Gamert1e2' component={Gamert1e2} />
         <Route path='/Gamert1e3' component={Gamert1e3} />
+        <Route path='/Gamert1e4' component={Gamert1e4} />
         <Route path='/gameoft' component={Gameoft} />
         <Route path='/1399' component={Gameoftr} />
+        <Route path='/27582' component={Assasinoapf} />
+        <Route path='/39414' component={Tempodc} />
         
         
    

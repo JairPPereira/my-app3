@@ -57,6 +57,21 @@ Lorde Snow</Card.Title>
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg" />
+      <Card.Body>
+        <Card.Title>4
+Aleijados, Bastardos, e Coisas Quebradas</Card.Title>
+        <Card.Text><p2>Ned busca pistas sobre a morte de seu antecessor e descobre um dos bastardos do Rei Robert; Jon toma medidas para proteger Sam dos abusos em Castle Black; Tyrion é pego no lugar errado.</p2>
+        </Card.Text>
+        <Link to="./Gamert1e4"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
     
 
           <p><br /></p>
