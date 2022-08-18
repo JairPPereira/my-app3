@@ -223,6 +223,7 @@ import Amordoentio from './components/pages/Amordoentio';
 import Gamert1e5 from './components/pages/Gamert1e5';
 import Plutotdam from './components/pages/Plutotdam';
 import Canaisp from './components/pages/Canaisp';
+import Plutoser from './components/pages/Plutoser';
 
 
 
@@ -452,6 +453,7 @@ function App() {
         <Route path='/39414' component={Tempodc} />
         <Route path='/127770' component={Apostolopauc} />
         <Route path='/875303' component={Amordoentio} />
+        <Route path='/plutoser' component={Plutoser} />
         <Route path='/plutotdam' component={Plutotdam} />
         <Route path='/canaisp' component={Canaisp} />
         
