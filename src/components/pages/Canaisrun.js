@@ -29,12 +29,12 @@ export default function Canaisrun() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=90&dpr=1&q=75" />
+      <Card.Img variant="top" src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" />
       <Card.Body>
-        <Card.Title>Canal Turma da Monica</Card.Title>
+        <Card.Title>Runtime Comédia</Card.Title>
         <Card.Text><p2></p2>
         </Card.Text>
-        <Link to="./Plutotdam"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Runtimecom"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>

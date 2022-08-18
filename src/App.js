@@ -226,6 +226,7 @@ import Canaisp from './components/pages/Canaisp';
 import Plutoser from './components/pages/Plutoser';
 import Canaisrun from './components/pages/Canaisrun';
 import Runtimepri from './components/pages/Runtimepri';
+import Runtimecom from './components/pages/Runtimecom';
 
 
 
@@ -460,6 +461,7 @@ function App() {
         <Route path='/canaisp' component={Canaisp} />
         <Route path='/canaisrun' component={Canaisrun} />
         <Route path='/runtimepri' component={Runtimepri} />
+        <Route path='/runtimecom' component={Runtimecom} />
         
         
    
