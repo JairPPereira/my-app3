@@ -29,6 +29,20 @@ export default function Canaisrun() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" />
+      <Card.Body>
+        <Card.Title>Runtime Ação</Card.Title>
+        <Card.Text><p2></p2>
+        </Card.Text>
+        <Link to="./Runtimeacao"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" />
       <Card.Body>
         <Card.Title>Runtime Comédia</Card.Title>
