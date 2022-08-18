@@ -217,6 +217,10 @@ import Gamert1e3 from './components/pages/Gamert1e3';
 import Assasinoapf from './components/pages/Assasinoapf';
 import Tempodc from './components/pages/Tempodc';
 import Gamert1e4 from './components/pages/Gamert1e4';
+import Drama2 from './components/pages/Drama2';
+import Apostolopauc from './components/pages/Apostolopauc';
+import Amordoentio from './components/pages/Amordoentio';
+import Gamert1e5 from './components/pages/Gamert1e5';
 
 
 
@@ -339,6 +343,7 @@ function App() {
         <Route path='/418808' component={Aslaminasdje} />
         <Route path='/340185' component={Ogritodamorte} />
         <Route path='/drama' component={Drama} />
+        <Route path='/drama2' component={Drama2} />
         <Route path='/556018' component={Kv1} />
         <Route path='/653024' component={Ocomitedd} />
         <Route path='/769749' component={Fundingyou} />
@@ -438,10 +443,13 @@ function App() {
         <Route path='/Gamert1e2' component={Gamert1e2} />
         <Route path='/Gamert1e3' component={Gamert1e3} />
         <Route path='/Gamert1e4' component={Gamert1e4} />
+        <Route path='/Gamert1e5' component={Gamert1e5} />
         <Route path='/gameoft' component={Gameoft} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/27582' component={Assasinoapf} />
         <Route path='/39414' component={Tempodc} />
+        <Route path='/127770' component={Apostolopauc} />
+        <Route path='/875303' component={Amordoentio} />
         
         
    
