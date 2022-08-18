@@ -228,6 +228,7 @@ import Canaisrun from './components/pages/Canaisrun';
 import Runtimepri from './components/pages/Runtimepri';
 import Runtimecom from './components/pages/Runtimecom';
 import Runtimeacao from './components/pages/Runtimeacao';
+import Itvtv from './components/pages/Itvtv';
 
 
 
@@ -464,6 +465,7 @@ function App() {
         <Route path='/runtimepri' component={Runtimepri} />
         <Route path='/runtimecom' component={Runtimecom} />
         <Route path='/runtimeacao' component={Runtimeacao} />
+        <Route path='/itvtv' component={Itvtv} />
         
         
    
