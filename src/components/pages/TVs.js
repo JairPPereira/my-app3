@@ -84,7 +84,7 @@ export default function TVs() {
         <Card.Title>Pluto TV</Card.Title>
         <Card.Text><p2>A Pluto TV é uma aplicação que lhe permite ver mais de 100 canais de televisão portáteis para a Internet, gratuitamente em qualquer dispositivo, em qualquer lugar. Com este aplicativo, você também pode transmitir Pluto TV via Google Chromecast e assistir à oferta de TV em uma grande TV.</p2>
         </Card.Text>
-        <Link to="./Plutotdam"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Canaisp"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
