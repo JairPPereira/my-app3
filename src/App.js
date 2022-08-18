@@ -224,6 +224,7 @@ import Gamert1e5 from './components/pages/Gamert1e5';
 import Plutotdam from './components/pages/Plutotdam';
 import Canaisp from './components/pages/Canaisp';
 import Plutoser from './components/pages/Plutoser';
+import Canaisrun from './components/pages/Canaisrun';
 
 
 
@@ -456,6 +457,7 @@ function App() {
         <Route path='/plutoser' component={Plutoser} />
         <Route path='/plutotdam' component={Plutotdam} />
         <Route path='/canaisp' component={Canaisp} />
+        <Route path='/canaisrun' component={Canaisrun} />
         
         
    

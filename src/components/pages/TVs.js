@@ -79,12 +79,26 @@ export default function TVs() {
         <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://wishapplist.monwindows.com/images/logos/cache/impg_0a94c203c264bfc_150_150.jpg" />
+      <Card.Img variant="top" src="https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x" />
       <Card.Body>
         <Card.Title>Pluto TV</Card.Title>
         <Card.Text><p2>A Pluto TV é uma aplicação que lhe permite ver mais de 100 canais de televisão portáteis para a Internet, gratuitamente em qualquer dispositivo, em qualquer lugar. Com este aplicativo, você também pode transmitir Pluto TV via Google Chromecast e assistir à oferta de TV em uma grande TV.</p2>
         </Card.Text>
         <Link to="./Canaisp"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.runtime.tv/themes/custom/run/runtime/logo.png" />
+      <Card.Body>
+        <Card.Title>Runtime TV</Card.Title>
+        <Card.Text><p2>Runtime é onde você encontra filmes e séries premiadas sempre grátis.</p2>
+        </Card.Text>
+        <Link to="./Canaisrun"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
