@@ -225,6 +225,7 @@ import Plutotdam from './components/pages/Plutotdam';
 import Canaisp from './components/pages/Canaisp';
 import Plutoser from './components/pages/Plutoser';
 import Canaisrun from './components/pages/Canaisrun';
+import Runtimepri from './components/pages/Runtimepri';
 
 
 
@@ -458,6 +459,7 @@ function App() {
         <Route path='/plutotdam' component={Plutotdam} />
         <Route path='/canaisp' component={Canaisp} />
         <Route path='/canaisrun' component={Canaisrun} />
+        <Route path='/runtimepri' component={Runtimepri} />
         
         
    
