@@ -245,6 +245,7 @@ import Agenteo from './components/pages/Agenteo';
 import Jornalismo from './components/pages/Jornalismo';
 import Jogosv from './components/pages/Jogosv';
 import Espn from './components/pages/Espn';
+import Sporttv from './components/pages/Sporttv';
 
 
 
@@ -498,6 +499,8 @@ function App() {
         <Route path='/725201' component={Agenteo} />
         <Route path='/70160' component={Jogosv} />
         <Route path='/espn' component={Espn} />
+        <Route path='/sporttv' component={Sporttv} />
+
         
         
    
