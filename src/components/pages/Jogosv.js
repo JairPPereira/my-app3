@@ -7,7 +7,7 @@ export default function Jogosv() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://streamtape.com/e/8vvK9dzQxYIorWY/"
+        src="https://streamtape.com/e/xkJ1X9DkaBSoKA/"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

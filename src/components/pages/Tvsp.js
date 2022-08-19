@@ -109,33 +109,7 @@ export default function TVsp() {
       </Card.Body>
     </Card></center>
 
-    <center>
-          <p></p>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://www.runtime.tv/themes/custom/run/runtime/logo.png" />
-      <Card.Body>
-        <Card.Title>Runtime TV</Card.Title>
-        <Card.Text><p2>Runtime é onde você encontra filmes e séries premiadas sempre grátis.</p2>
-        </Card.Text>
-        <Link to="./Canaisrun"><Button variant="primary" size="lg" width="100%">
-      Assistir
-        </Button></Link>
-      </Card.Body>
-    </Card></center>
-
-    <center>
-          <p></p>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://pbs.twimg.com/profile_images/1461742005176909838/mSlnGpF1_400x400.jpg" />
-      <Card.Body>
-        <Card.Title>Disney Channel Brasil</Card.Title>
-        <Card.Text><p2></p2>
-        </Card.Text>
-        <Link to="./Disneyc"><Button variant="primary" size="lg" width="100%">
-      Assistir
-        </Button></Link>
-      </Card.Body>
-    </Card></center>
+  
 
 
 
