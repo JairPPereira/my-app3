@@ -7,7 +7,8 @@ export default function Bandnews() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://embedflix.net/tv/bandnews"
+        src="https://embedflix.net/tv/bandnews" 
+        target="_blank"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
