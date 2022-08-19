@@ -241,6 +241,7 @@ import Dazn from './components/pages/Dazn';
 import Commebol1 from './components/pages/Commebol1';
 import Premier from './components/pages/Premier';
 import Premiere2 from './components/pages/Premiere2';
+import Agenteo from './components/pages/Agenteo';
 
 
 
@@ -490,6 +491,7 @@ function App() {
         <Route path='/cnnbr' component={Cnnbr} />
         <Route path='/526896' component={Morbius} />
         <Route path='/11041' component={Afamiliab} />
+        <Route path='/725201' component={Agenteo} />
         
         
    
