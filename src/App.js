@@ -238,6 +238,8 @@ import Afamiliab from './components/pages/Afamiliab';
 import TVsp from './components/pages/Tvsp';
 import Bandsp from './components/pages/Bandsp';
 import Dazn from './components/pages/Dazn';
+import Commebol1 from './components/pages/Commebol1';
+import Premier from './components/pages/Premier';
 
 
 
@@ -265,6 +267,8 @@ function App() {
         <Route path='/tvsp' component={TVsp} />
         <Route path='/bandsp' component={Bandsp} />
         <Route path='/dazn' component={Dazn} />
+        <Route path='/commebol1' component={Commebol1} />
+        <Route path='/premier' component={Premier} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/animacao' component={Animacao} />

@@ -43,12 +43,12 @@ export default function TVsp() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://www.mundopositivo.com.br/wp-content/uploads/2020/07/cnn-brasil-comemora-conquista-de-publico-da-classe-ab-em-100-dias-de-operacao-1.jpg" />
+      <Card.Img variant="top" src="https://cdn.conmebol.com/wp-content/uploads/2022/01/Nuevo-proyecto-85.jpg" />
       <Card.Body>
-        <Card.Title>CNN Brasil</Card.Title>
-        <Card.Text><p2>Você por dentro de tudo - Notícias ao vivo, fatos da política nacional e internacional no maior canal de notícias do mundo!</p2>
+        <Card.Title>Commebol 1</Card.Title>
+        <Card.Text><p2>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.</p2>
         </Card.Text>
-        <Link to="./Cnnbr"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Commebol1"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
@@ -57,12 +57,12 @@ export default function TVsp() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://scontent.fbel16-1.fna.fbcdn.net/v/t1.6435-9/158721817_1982113368612507_7372704316327449635_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=973b4a&_nc_ohc=i6t4_jGBcMwAX_qRqOy&_nc_ht=scontent.fbel16-1.fna&oh=00_AT_mbvArk7mYS-7NqgoMstT9j5XgVdmtYUSfOSkMwFdtAw&oe=6325A5DD" />
+      <Card.Img variant="top" src="https://static.cdn.pleno.news/2020/05/size_960_16_9_premiere.jpeg" />
       <Card.Body>
-        <Card.Title>Bandnews</Card.Title>
-        <Card.Text><p2>BandNews TV é um canal de televisão brasileiro de notícias 24 horas sediado em São Paulo, capital paulista, e que foi inaugurado no dia 19 de março de 2001 pelo Grupo Bandeirantes de Comunicação. Sendo o segundo canal de notícias no Brasil. É o quarto canal de notícias mais visto no Brasil.</p2>
+        <Card.Title>Premiere</Card.Title>
+        <Card.Text><p2>O Premiere é um canal de televisão por assinatura brasileiro que utiliza o formato Pay-Per-View para exibir os jogos do Campeonato Brasileiro Séries A e B, Copa do Brasil e alguns Campeonatos Estaduais dos quais o Grupo Globo ainda possui os direitos de transmissão.</p2>
         </Card.Text>
-        <Link to="./Bandnews"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Premier"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
