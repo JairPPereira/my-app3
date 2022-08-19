@@ -15,7 +15,7 @@ export default function TVsp() {
         <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="http://www.x-combat.com.br/upload/1423854823.png" />
+      <Card.Img variant="top" src="https://megacanais.com/wp-content/uploads/2020/12/bandsports.png" />
       <Card.Body>
         <Card.Title>Band Sport</Card.Title>
         <Card.Text><p2>BandSports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação. Foi lançado em 13 de maio de 2002.</p2>
@@ -29,12 +29,12 @@ export default function TVsp() {
         <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg" />
+      <Card.Img variant="top" src="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" />
       <Card.Body>
-        <Card.Title>Globonews</Card.Title>
-        <Card.Text><p2>O primeiro canal brasileiro de notícias 24 horas no ar.</p2>
+        <Card.Title>Dazn</Card.Title>
+        <Card.Text><p2>DAZN é o primeiro serviço de streaming de esportes ao vivo e sob demanda do mundo e apresenta competições esportivas nacionais e internacionais.</p2>
         </Card.Text>
-        <Link to="./Globonews"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Dazn"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>

@@ -237,6 +237,7 @@ import Morbius from './components/pages/Morbius';
 import Afamiliab from './components/pages/Afamiliab';
 import TVsp from './components/pages/Tvsp';
 import Bandsp from './components/pages/Bandsp';
+import Dazn from './components/pages/Dazn';
 
 
 
@@ -263,6 +264,7 @@ function App() {
         <Route path='/tvs' component={TVs} />
         <Route path='/tvsp' component={TVsp} />
         <Route path='/bandsp' component={Bandsp} />
+        <Route path='/dazn' component={Dazn} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/animacao' component={Animacao} />
