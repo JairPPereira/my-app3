@@ -8,6 +8,7 @@ export default function Disneyc() {
           <p><br /></p>
       <iframe
         src="https://embedflix.net/tv/disney-channel"
+        target="_blank"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
