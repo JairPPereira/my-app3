@@ -242,6 +242,8 @@ import Commebol1 from './components/pages/Commebol1';
 import Premier from './components/pages/Premier';
 import Premiere2 from './components/pages/Premiere2';
 import Agenteo from './components/pages/Agenteo';
+import Jornalismo from './components/pages/Jornalismo';
+import Jogosv from './components/pages/Jogosv';
 
 
 
@@ -266,6 +268,7 @@ function App() {
         <Route path='/daaz7' component={Daaz7} />
         <Route path='/daaz8' component={Daaz8} />
         <Route path='/tvs' component={TVs} />
+        <Route path='/jornalismo' component={Jornalismo} />
         <Route path='/tvsp' component={TVsp} />
         <Route path='/bandsp' component={Bandsp} />
         <Route path='/dazn' component={Dazn} />
@@ -492,6 +495,7 @@ function App() {
         <Route path='/526896' component={Morbius} />
         <Route path='/11041' component={Afamiliab} />
         <Route path='/725201' component={Agenteo} />
+        <Route path='/70160' component={Jogosv} />
         
         
    
