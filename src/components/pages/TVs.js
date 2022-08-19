@@ -45,11 +45,7 @@ export default function TVs() {
     Bandnews
         </Button></a></Card.Body>
     </Card>
-    <Card>
-    <Card.Body><a href="https://jppfilmesonline.blogspot.com/p/globonews.html?m=1"><Button variant="primary" size="lg" width="100%">
-    Globonews
-        </Button></a></Card.Body>
-    </Card>
+
     <Card>
     <Card.Body><a href="https://jppfilmesonline.blogspot.com/p/untitled-1-download-video-file.html"><Button variant="primary" size="lg" width="100%">
     CNN Brasil
@@ -77,6 +73,19 @@ export default function TVs() {
 
         </nav></h1>
         <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg" />
+      <Card.Body>
+        <Card.Title>Globo news</Card.Title>
+        <Card.Text><p2>O primeiro canal brasileiro de notícias 24 horas no ar.</p2>
+        </Card.Text>
+        <Link to="./Globonews"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+    <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7-jt3Yh-cJqBk_en593s7_dv-yWG7xfnQv27bq0ZoyM9Dk9nRR9tWYbJ1hn-G53_OgE&usqp=CAU" />

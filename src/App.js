@@ -229,6 +229,7 @@ import Runtimepri from './components/pages/Runtimepri';
 import Runtimecom from './components/pages/Runtimecom';
 import Runtimeacao from './components/pages/Runtimeacao';
 import Itvtv from './components/pages/Itvtv';
+import Globonews from './components/pages/Globonews';
 
 
 
@@ -466,6 +467,7 @@ function App() {
         <Route path='/runtimecom' component={Runtimecom} />
         <Route path='/runtimeacao' component={Runtimeacao} />
         <Route path='/itvtv' component={Itvtv} />
+        <Route path='/globonews' component={Globonews} />
         
         
    
