@@ -233,6 +233,8 @@ import Globonews from './components/pages/Globonews';
 import Bandnews from './components/pages/Bandnews';
 import Disneyc from './components/pages/Disneyc';
 import Cnnbr from './components/pages/Cnnbr';
+import Morbius from './components/pages/Morbius';
+import Afamiliab from './components/pages/Afamiliab';
 
 
 
@@ -474,6 +476,8 @@ function App() {
         <Route path='/bandnews' component={Bandnews} />
         <Route path='/disneyc' component={Disneyc} />
         <Route path='/cnnbr' component={Cnnbr} />
+        <Route path='/526896' component={Morbius} />
+        <Route path='/11041' component={Afamiliab} />
         
         
    
