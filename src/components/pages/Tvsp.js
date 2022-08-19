@@ -57,6 +57,20 @@ export default function TVsp() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.lance.com.br/files/article_main/uploads/2021/11/14/619146924380d.png" />
+      <Card.Body>
+        <Card.Title>ESPN</Card.Title>
+        <Card.Text><p2>ESPN, sigla para Entertainment and Sports Programming Network, é uma família de canais de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</p2>
+        </Card.Text>
+        <Link to="./Espn"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://static.cdn.pleno.news/2020/05/size_960_16_9_premiere.jpeg" />
       <Card.Body>
         <Card.Title>Premiere</Card.Title>
