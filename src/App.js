@@ -230,6 +230,7 @@ import Runtimecom from './components/pages/Runtimecom';
 import Runtimeacao from './components/pages/Runtimeacao';
 import Itvtv from './components/pages/Itvtv';
 import Globonews from './components/pages/Globonews';
+import Bandnews from './components/pages/Bandnews';
 
 
 
@@ -468,6 +469,7 @@ function App() {
         <Route path='/runtimeacao' component={Runtimeacao} />
         <Route path='/itvtv' component={Itvtv} />
         <Route path='/globonews' component={Globonews} />
+        <Route path='/bandnews' component={Bandnews} />
         
         
    

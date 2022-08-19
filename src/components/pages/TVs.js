@@ -40,11 +40,7 @@ export default function TVs() {
     Recordnews
         </Button></Link></Card.Body>
     </Card>
-    <Card>
-    <Card.Body><a href="https://jppfilmesonline.blogspot.com/p/bandnews.html"><Button variant="primary" size="lg" width="100%">
-    Bandnews
-        </Button></a></Card.Body>
-    </Card>
+    
 
     <Card>
     <Card.Body><a href="https://jppfilmesonline.blogspot.com/p/untitled-1-download-video-file.html"><Button variant="primary" size="lg" width="100%">
@@ -61,11 +57,7 @@ export default function TVs() {
     Sbt
         </Button></Link></Card.Body>
     </Card>
-    <Card>
-    <Card.Body><Link to="./Aturmadam24"><Button variant="primary" size="lg" width="100%">
-    Teste
-        </Button></Link></Card.Body>
-    </Card>
+
 
           <p><br /></p>
 
@@ -77,10 +69,24 @@ export default function TVs() {
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg" />
       <Card.Body>
-        <Card.Title>Globo news</Card.Title>
+        <Card.Title>Globonews</Card.Title>
         <Card.Text><p2>O primeiro canal brasileiro de notícias 24 horas no ar.</p2>
         </Card.Text>
         <Link to="./Globonews"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://scontent.fbel16-1.fna.fbcdn.net/v/t1.6435-9/158721817_1982113368612507_7372704316327449635_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=973b4a&_nc_ohc=i6t4_jGBcMwAX_qRqOy&_nc_ht=scontent.fbel16-1.fna&oh=00_AT_mbvArk7mYS-7NqgoMstT9j5XgVdmtYUSfOSkMwFdtAw&oe=6325A5DD" />
+      <Card.Body>
+        <Card.Title>Bandnews</Card.Title>
+        <Card.Text><p2>BandNews TV é um canal de televisão brasileiro de notícias 24 horas sediado em São Paulo, capital paulista, e que foi inaugurado no dia 19 de março de 2001 pelo Grupo Bandeirantes de Comunicação. Sendo o segundo canal de notícias no Brasil. É o quarto canal de notícias mais visto no Brasil.</p2>
+        </Card.Text>
+        <Link to="./Bandnews"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
