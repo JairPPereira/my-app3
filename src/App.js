@@ -232,6 +232,7 @@ import Itvtv from './components/pages/Itvtv';
 import Globonews from './components/pages/Globonews';
 import Bandnews from './components/pages/Bandnews';
 import Disneyc from './components/pages/Disneyc';
+import Cnnbr from './components/pages/Cnnbr';
 
 
 
@@ -472,6 +473,7 @@ function App() {
         <Route path='/globonews' component={Globonews} />
         <Route path='/bandnews' component={Bandnews} />
         <Route path='/disneyc' component={Disneyc} />
+        <Route path='/cnnbr' component={Cnnbr} />
         
         
    
