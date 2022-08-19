@@ -7,74 +7,20 @@ import Card from 'react-bootstrap/Card';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function TVs() {
+export default function TVsp() {
 
   return (
     <>
-      <h1 className='tvs'>
 
-        <nav>
-          <p><br /></p>
-          <Card>
-      <Card.Body><Link to="./Boasnovas"><Button variant="primary" size="lg" width="100%">
-      Boas novas
-        </Button></Link></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><Link to="./Fmodia"><Button variant="primary" size="lg" width="100%">
-    FM O Dia
-        </Button></Link></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><Link to="./Graopara"><Button variant="primary" size="lg" width="100%">
-    Grão Pará
-        </Button></Link></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><Link to="./Rba"><Button variant="primary" size="lg" width="100%">
-    Rba
-        </Button></Link></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><Link to="./Recordnews"><Button variant="primary" size="lg" width="100%">
-    Recordnews
-        </Button></Link></Card.Body>
-    </Card>
-
-    <Card>
-    <Card.Body><Link to="./Tvsp"><Button variant="primary" size="lg" width="100%">
-    Esport
-        </Button></Link></Card.Body>
-    </Card>
-    
-
-    <Card>
-    <Card.Body><a href="https://jppfilmesonline.blogspot.com/p/untitled-1-download-video-file.html"><Button variant="primary" size="lg" width="100%">
-    CNN Brasil
-        </Button></a></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><a href="http://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8"><Button variant="primary" size="lg" width="100%">
-    CNN Brasil - Apenas para navegadores mobile
-        </Button></a></Card.Body>
-    </Card>
-
-
-
-          <p><br /></p>
-
-
-
-        </nav></h1>
         <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/7/75/SBT_Par%C3%A1.png" />
+      <Card.Img variant="top" src="http://www.x-combat.com.br/upload/1423854823.png" />
       <Card.Body>
-        <Card.Title>SBT Pará</Card.Title>
-        <Card.Text><p2>SBT Pará é uma emissora de televisão brasileira sediada em Belém, capital do estado do Pará. Opera no canal 5, e é uma emissora própria do SBT, sendo portanto, pertencente ao Grupo Silvio Santos.</p2>
+        <Card.Title>Band Sport</Card.Title>
+        <Card.Text><p2>BandSports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação. Foi lançado em 13 de maio de 2002.</p2>
         </Card.Text>
-        <Link to="./Sbt"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Bandsp"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>

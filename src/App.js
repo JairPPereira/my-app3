@@ -235,6 +235,8 @@ import Disneyc from './components/pages/Disneyc';
 import Cnnbr from './components/pages/Cnnbr';
 import Morbius from './components/pages/Morbius';
 import Afamiliab from './components/pages/Afamiliab';
+import TVsp from './components/pages/Tvsp';
+import Bandsp from './components/pages/Bandsp';
 
 
 
@@ -259,6 +261,8 @@ function App() {
         <Route path='/daaz7' component={Daaz7} />
         <Route path='/daaz8' component={Daaz8} />
         <Route path='/tvs' component={TVs} />
+        <Route path='/tvsp' component={TVsp} />
+        <Route path='/bandsp' component={Bandsp} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/animacao' component={Animacao} />
