@@ -231,6 +231,7 @@ import Runtimeacao from './components/pages/Runtimeacao';
 import Itvtv from './components/pages/Itvtv';
 import Globonews from './components/pages/Globonews';
 import Bandnews from './components/pages/Bandnews';
+import Disneyc from './components/pages/Disneyc';
 
 
 
@@ -470,6 +471,7 @@ function App() {
         <Route path='/itvtv' component={Itvtv} />
         <Route path='/globonews' component={Globonews} />
         <Route path='/bandnews' component={Bandnews} />
+        <Route path='/disneyc' component={Disneyc} />
         
         
    

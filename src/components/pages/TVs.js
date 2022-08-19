@@ -133,6 +133,24 @@ export default function TVs() {
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://pbs.twimg.com/profile_images/1461742005176909838/mSlnGpF1_400x400.jpg" />
+      <Card.Body>
+        <Card.Title>Disney Channel Brasil</Card.Title>
+        <Card.Text><p2></p2>
+        </Card.Text>
+        <Link to="./Disneyc"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+
+
+    <p></p>
+
     </>
 
 
