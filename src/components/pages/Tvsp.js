@@ -70,12 +70,12 @@ export default function TVsp() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7-jt3Yh-cJqBk_en593s7_dv-yWG7xfnQv27bq0ZoyM9Dk9nRR9tWYbJ1hn-G53_OgE&usqp=CAU" />
+      <Card.Img variant="top" src="https://static.cdn.pleno.news/2020/05/size_960_16_9_premiere.jpeg" />
       <Card.Body>
-        <Card.Title>ITV TV</Card.Title>
-        <Card.Text><p2>ITV Channel que pode ser uma mão na roda pra você gostaria de ver alguns canais de TV que não estão dísponivéis no Rio de Janeiro ou em qualquer outro lugar do Brasil.</p2>
+        <Card.Title>Premiere 2</Card.Title>
+        <Card.Text><p2>O Premiere é um canal de televisão por assinatura brasileiro que utiliza o formato Pay-Per-View para exibir os jogos do Campeonato Brasileiro Séries A e B, Copa do Brasil e alguns Campeonatos Estaduais dos quais o Grupo Globo ainda possui os direitos de transmissão.</p2>
         </Card.Text>
-        <Link to="./Itvtv"><Button variant="primary" size="lg" width="100%">
+        <Link to="./Premiere2"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>

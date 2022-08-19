@@ -240,6 +240,7 @@ import Bandsp from './components/pages/Bandsp';
 import Dazn from './components/pages/Dazn';
 import Commebol1 from './components/pages/Commebol1';
 import Premier from './components/pages/Premier';
+import Premiere2 from './components/pages/Premiere2';
 
 
 
@@ -269,6 +270,7 @@ function App() {
         <Route path='/dazn' component={Dazn} />
         <Route path='/commebol1' component={Commebol1} />
         <Route path='/premier' component={Premier} />
+        <Route path='/premiere2' component={Premiere2} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/animacao' component={Animacao} />
