@@ -253,6 +253,9 @@ import Conmebol2 from './components/pages/Conmebol2';
 import Espn2 from './components/pages/Espn2';
 import Conmebol3 from './components/pages/Conmebol3';
 import Sporttv3 from './components/pages/Sporttv3';
+import Espn3 from './components/pages/Espn3';
+import Tnts1 from './components/pages/Tnts1';
+import Premiere3 from './components/pages/Premiere3';
 
 
 
@@ -287,6 +290,7 @@ function App() {
         <Route path='/conmebol3' component={Conmebol3} />
         <Route path='/premier' component={Premier} />
         <Route path='/premiere2' component={Premiere2} />
+        <Route path='/premiere3' component={Premiere3} />
         <Route path='/radios' component={Radios} />
         <Route path='/acao' component={Acao} />
         <Route path='/animacao' component={Animacao} />
@@ -511,9 +515,11 @@ function App() {
         <Route path='/101299' component={Jogosvec} />
         <Route path='/espn' component={Espn} />
         <Route path='/espn2' component={Espn2} />
+        <Route path='/espn3' component={Espn3} />
         <Route path='/sporttv' component={Sporttv} />
         <Route path='/sporttv2' component={Sporttv2} />
         <Route path='/sporttv3' component={Sporttv3} />
+        <Route path='/Tnts1' component={Tnts1} />
 
         
         
