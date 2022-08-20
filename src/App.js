@@ -256,6 +256,7 @@ import Sporttv3 from './components/pages/Sporttv3';
 import Espn3 from './components/pages/Espn3';
 import Tnts1 from './components/pages/Tnts1';
 import Premiere3 from './components/pages/Premiere3';
+import Jogosve1 from './components/pages/Jogosve1';
 
 
 
@@ -513,6 +514,7 @@ function App() {
         <Route path='/725201' component={Agenteo} />
         <Route path='/70160' component={Jogosv} />
         <Route path='/101299' component={Jogosvec} />
+        <Route path='/131631' component={Jogosve1} />
         <Route path='/espn' component={Espn} />
         <Route path='/espn2' component={Espn2} />
         <Route path='/espn3' component={Espn3} />
