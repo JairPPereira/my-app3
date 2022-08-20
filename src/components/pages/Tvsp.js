@@ -45,10 +45,38 @@ export default function TVsp() {
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://cdn.conmebol.com/wp-content/uploads/2022/01/Nuevo-proyecto-85.jpg" />
       <Card.Body>
-        <Card.Title>Commebol 1</Card.Title>
+        <Card.Title>Conmebol 1</Card.Title>
         <Card.Text><p2>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.</p2>
         </Card.Text>
         <Link to="./Commebol1"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://cdn.conmebol.com/wp-content/uploads/2022/01/Nuevo-proyecto-85.jpg" />
+      <Card.Body>
+        <Card.Title>Conmebol 2</Card.Title>
+        <Card.Text><p2>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.</p2>
+        </Card.Text>
+        <Link to="./Conmebol2"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://cdn.conmebol.com/wp-content/uploads/2022/01/Nuevo-proyecto-85.jpg" />
+      <Card.Body>
+        <Card.Title>Conmebol 3</Card.Title>
+        <Card.Text><p2>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.</p2>
+        </Card.Text>
+        <Link to="./Conmebol3"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
@@ -63,6 +91,20 @@ export default function TVsp() {
         <Card.Text><p2>ESPN, sigla para Entertainment and Sports Programming Network, é uma família de canais de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</p2>
         </Card.Text>
         <Link to="./Espn"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.lance.com.br/files/article_main/uploads/2021/11/14/619146924380d.png" />
+      <Card.Body>
+        <Card.Title>ESPN 2</Card.Title>
+        <Card.Text><p2>ESPN, sigla para Entertainment and Sports Programming Network, é uma família de canais de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</p2>
+        </Card.Text>
+        <Link to="./Espn2"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
@@ -118,6 +160,20 @@ export default function TVsp() {
         <Card.Text><p2>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 10 de novembro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Tem dois canais irmãos, o SporTV 2 e SporTV 3.</p2>
         </Card.Text>
         <Link to="./Sporttv2"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg" />
+      <Card.Body>
+        <Card.Title>Sport TV 3</Card.Title>
+        <Card.Text><p2>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 10 de novembro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Tem dois canais irmãos, o SporTV 2 e SporTV 3.</p2>
+        </Card.Text>
+        <Link to="./Sporttv3"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
