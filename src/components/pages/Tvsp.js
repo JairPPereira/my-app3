@@ -109,6 +109,20 @@ export default function TVsp() {
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg" />
+      <Card.Body>
+        <Card.Title>Sport TV 2</Card.Title>
+        <Card.Text><p2>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 10 de novembro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Tem dois canais irmãos, o SporTV 2 e SporTV 3.</p2>
+        </Card.Text>
+        <Link to="./Sporttv2"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
   
 
 

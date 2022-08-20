@@ -246,6 +246,8 @@ import Jornalismo from './components/pages/Jornalismo';
 import Jogosv from './components/pages/Jogosv';
 import Espn from './components/pages/Espn';
 import Sporttv from './components/pages/Sporttv';
+import Jogosvec from './components/pages/Jogosvec';
+import Sporttv2 from './components/pages/Sporttv2';
 
 
 
@@ -498,8 +500,10 @@ function App() {
         <Route path='/11041' component={Afamiliab} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/70160' component={Jogosv} />
+        <Route path='/101299' component={Jogosvec} />
         <Route path='/espn' component={Espn} />
         <Route path='/sporttv' component={Sporttv} />
+        <Route path='/sporttv2' component={Sporttv2} />
 
         
         
