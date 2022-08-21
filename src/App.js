@@ -260,6 +260,7 @@ import Jogosve1 from './components/pages/Jogosve1';
 import Jogosvef from './components/pages/Jogosvef';
 import Comedia2 from './components/pages/Comedia2';
 import Cafeina from './components/pages/Cafeina';
+import Acarga from './components/pages/Acarga';
 
 
 
@@ -528,6 +529,7 @@ function App() {
         <Route path='/sporttv3' component={Sporttv3} />
         <Route path='/Tnts1' component={Tnts1} />
         <Route path='/18654' component={Cafeina} />
+        <Route path='/507313' component={Acarga} />
 
         
         
