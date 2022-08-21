@@ -270,6 +270,8 @@ import Jogadadm from './components/pages/Jogadadm';
 import Tvsf from './components/pages/Tvsf';
 import Hbof from './components/pages/Hbof';
 import Comedyc from './components/pages/Comedyc';
+import Globom from './components/pages/Globom';
+import Globosp from './components/pages/Globosp';
 
 
 
@@ -537,6 +539,8 @@ function App() {
         <Route path='/sporttv' component={Sporttv} />
         <Route path='/sporttv2' component={Sporttv2} />
         <Route path='/sporttv3' component={Sporttv3} />
+        <Route path='/globom' component={Globom} />
+        <Route path='/globosp' component={Globosp} />
         <Route path='/Tnts1' component={Tnts1} />
         <Route path='/Tntsports5' component={Tntsport5} />
         <Route path='/Tntsports7' component={Tntsports7} />
