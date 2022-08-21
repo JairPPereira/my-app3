@@ -264,6 +264,7 @@ import Acarga from './components/pages/Acarga';
 import Tntsport5 from './components/pages/Tntsports5';
 import Tntsports7 from './components/pages/Tntsports7';
 import Tntsports8 from './components/pages/Tntsports8';
+import Megapix from './components/pages/Megapix';
 
 
 
@@ -536,6 +537,7 @@ function App() {
         <Route path='/Tntsports8' component={Tntsports8} />
         <Route path='/18654' component={Cafeina} />
         <Route path='/507313' component={Acarga} />
+        <Route path='/Megapix' component={Megapix} />
 
         
         
