@@ -53,6 +53,7 @@ class Teste extends Component {
                     poster={this.state.video.poster}
                     width="720px" 
                     height="auto"
+                    crossorigin="anonymous"
                     onReady={this.onPlayerReady.bind(this)}
                     onPlay={this.onVideoPlay.bind(this)}
                     onPause={this.onVideoPause.bind(this)}
