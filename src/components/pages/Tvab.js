@@ -35,11 +35,7 @@ export default function Tvab() {
     Rba
         </Button></Link></Card.Body>
     </Card>
-    <Card>
-    <Card.Body><Link to="./Teste"><Button variant="primary" size="lg" width="100%">
-    TV Liberal
-        </Button></Link></Card.Body>
-    </Card>
+
 
     <Card>
     <Card.Body><Link to="./Teste2"><Button variant="primary" size="lg" width="100%">
@@ -68,6 +64,20 @@ export default function Tvab() {
 
         </nav></h1>
         <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png" />
+      <Card.Body>
+        <Card.Title>TV Liberal - Somente para dispositivos Mobile</Card.Title>
+        <Card.Text><p2>TV Liberal Belém é uma emissora de televisão brasileira sediada em Belém, capital do estado do Pará. Opera no canal 7, e é afiliada à TV Globo.</p2>
+        </Card.Text>
+        <Link to="./Teste"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" />
