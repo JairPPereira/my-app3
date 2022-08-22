@@ -1,20 +1,68 @@
-import React from "react";
+import React, { Component } from 'react';
+import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
-export default function Teste() {
-  return (
-    <div>
-          <p><br /></p>
-      <iframe
-        src="https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8"
-        frameborder="0"
-        crossorigin="anonymous"
-        width="100%" height="600px"
-        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        title="video"
-      />{" "}
-                  <div className="nave">
+ 
+class Teste extends Component {
+    player = {}
+    state = {
+        video: {
+            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8",
+
+            poster: ""
+        }
+    }
+ 
+    onPlayerReady(player){
+        console.log("Player is ready: ", player);
+        this.player = player;
+    }
+ 
+    onVideoPlay(duration){
+        console.log("Video played at: ", duration);
+    }
+ 
+    onVideoPause(duration){
+        console.log("Video paused at: ", duration);
+    }
+ 
+    onVideoTimeUpdate(duration){
+        console.log("Time updated: ", duration);
+    }
+ 
+    onVideoSeeking(duration){
+        console.log("Video seeking: ", duration);
+    }
+ 
+    onVideoSeeked(from, to){
+        console.log(`Video seeked from ${from} to ${to}`);
+    }
+ 
+    onVideoEnd(){
+        console.log("Video ended");
+    }
+ 
+    render() {
+        return (
+            <div>
+                      <p><br /></p>
+                <VideoPlayer
+                    controls={true}
+                    src={this.state.video.src}
+                    poster={this.state.video.poster}
+                    width="720px" 
+                    height="auto"
+                    onReady={this.onPlayerReady.bind(this)}
+                    onPlay={this.onVideoPlay.bind(this)}
+                    onPause={this.onVideoPause.bind(this)}
+                    onTimeUpdate={this.onVideoTimeUpdate.bind(this)}
+                    onSeeking={this.onVideoSeeking.bind(this)}
+                    onSeeked={this.onVideoSeeked.bind(this)}
+                    onEnd={this.onVideoEnd.bind(this)}
+                />
+                    <p><br /></p> 
+               <div className="nave">
       <nav>
       <p><br /></p>
       <Link to="/">Home</Link>
@@ -22,11 +70,8 @@ export default function Teste() {
 <p><br /></p>
 
       </nav></div></div>
-
-  );
+            
+        );
+    }
 }
-
-
-
-
-
+export default Teste;
