@@ -31,8 +31,8 @@ export default function Tvab() {
         </Button></Link></Card.Body>
     </Card>
     <Card>
-    <Card.Body><Link to="./Rba"><Button variant="primary" size="lg" width="100%">
-    Rba
+    <Card.Body><Link to="./Teste2"><Button variant="primary" size="lg" width="100%">
+    Teste1
         </Button></Link></Card.Body>
     </Card>
 
