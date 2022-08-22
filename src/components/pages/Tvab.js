@@ -40,6 +40,11 @@ export default function Tvab() {
     Teste
         </Button></Link></Card.Body>
     </Card>
+    <Card>
+    <Card.Body><a href="https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8"><Button variant="primary" size="lg" width="100%">
+    Teste2
+        </Button></a></Card.Body>
+    </Card>
 
     
     

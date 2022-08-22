@@ -9,6 +9,7 @@ export default function Teste() {
       <iframe
         src="https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8"
         frameborder="0"
+        crossorigin="anonymous"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
