@@ -37,9 +37,16 @@ export default function Tvab() {
     </Card>
     <Card>
     <Card.Body><Link to="./Teste"><Button variant="primary" size="lg" width="100%">
-    TesteA
+    TV Liberal
         </Button></Link></Card.Body>
     </Card>
+
+    <Card>
+    <Card.Body><Link to="./Teste2"><Button variant="primary" size="lg" width="100%">
+    TV Liberal2
+        </Button></Link></Card.Body>
+    </Card>
+    
     <Card>
     <Card.Body><a href="https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661263436171439837916611770367661189414wmOy_DMujl65m6yOgikVdg&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7"><Button variant="primary" size="lg" width="100%">
     Teste2

@@ -272,6 +272,7 @@ import Hbof from './components/pages/Hbof';
 import Comedyc from './components/pages/Comedyc';
 import Globom from './components/pages/Globom';
 import Globosp from './components/pages/Globosp';
+import Teste2 from './components/pages/Teste2';
 
 
 
@@ -552,6 +553,7 @@ function App() {
         <Route path='/comedyc' component={Comedyc} />
         <Route path='/68202' component={Cadeoh} />
         <Route path='/228968' component={Jogadadm} />
+        <Route path='/teste2' component={Teste2} />
 
 
 
