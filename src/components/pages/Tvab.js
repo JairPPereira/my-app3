@@ -35,6 +35,11 @@ export default function Tvab() {
     Rba
         </Button></Link></Card.Body>
     </Card>
+    <Card>
+    <Card.Body><Link to="./Teste"><Button variant="primary" size="lg" width="100%">
+    Teste
+        </Button></Link></Card.Body>
+    </Card>
 
     
     
