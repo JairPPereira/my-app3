@@ -8,8 +8,8 @@ class Teste extends Component {
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8",
-            type:"application/x-mpegURL",
+            src: "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661371396118308712216612849961406335362mZ-LKENSEtIsA5CqmVQ0dw&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
+            type:"application/vnd.apple.mpegurl",
 
             poster: ""
         }
