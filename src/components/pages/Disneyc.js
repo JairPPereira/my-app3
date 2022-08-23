@@ -7,7 +7,7 @@ export default function Disneyc() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://player.aovivotv.xyz/channels/disneychannel/external"
+        src="https://canais.m3u8live.ml/v.php?id=disneychannel"
         target="_blank"
         frameborder="0"
         width="100%" height="600px"
