@@ -53,7 +53,6 @@ class Teste extends Component {
                     src={this.state.video.src}
                     poster={this.state.video.poster}
                     width="720px" 
-                    height="auto"
                     type="application/x-mpegURL"
                     crossorigin="anonymous"
                     onReady={this.onPlayerReady.bind(this)}
