@@ -273,6 +273,8 @@ import Comedyc from './components/pages/Comedyc';
 import Globom from './components/pages/Globom';
 import Globosp from './components/pages/Globosp';
 import Teste2 from './components/pages/Teste2';
+import Epiphaneap from './components/pages/Epiphaneap';
+import Ajornadauvt from './components/pages/Ajornadauvt';
 
 
 
@@ -554,6 +556,8 @@ function App() {
         <Route path='/68202' component={Cadeoh} />
         <Route path='/228968' component={Jogadadm} />
         <Route path='/teste2' component={Teste2} />
+        <Route path='/664474' component={Epiphaneap} />
+        <Route path='/45767' component={Ajornadauvt} />
 
 
 
