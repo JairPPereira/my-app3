@@ -7,7 +7,7 @@ export default function Disneyc() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://embedflix.net/tv/disney-channel"
+        src="https://player.aovivotv.xyz/channels/disneychannel/external"
         target="_blank"
         frameborder="0"
         width="100%" height="600px"
