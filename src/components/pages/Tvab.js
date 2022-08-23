@@ -38,7 +38,7 @@ export default function Tvab() {
 
 
     <Card>
-    <Card.Body><a href="http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"><Button variant="primary" size="lg" width="100%">
+    <Card.Body><a href="http://www.portalcultura.com.br/playerhtml/index.html"><Button variant="primary" size="lg" width="100%">
     Teste2
         </Button></a></Card.Body>
     </Card>
