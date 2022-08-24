@@ -8,7 +8,7 @@ class Teste2 extends Component {
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8",
+            src: "https://streamtape.com/v/2WOjMa2G0wfxxY/Topgun.mp4",
 
             poster: ""
         }

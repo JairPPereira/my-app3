@@ -279,6 +279,7 @@ import Daaz9 from './components/pages/Daaz9';
 import Opredadora from './components/pages/Opredadora';
 import Thewd from './components/pages/Thewd';
 import Recordrj from './components/pages/Recordrj';
+import Topgun from './components/pages/Topgun';
 
 
 
@@ -567,6 +568,7 @@ function App() {
         <Route path='/766507' component={Opredadora} />
         <Route path='/1402' component={Thewd} />
         <Route path='/recordrj' component={Recordrj} />
+        <Route path='/361743' component={Topgun} />
 
  
 
