@@ -116,7 +116,7 @@ export default function Tvab() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="" />
+      <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" />
       <Card.Body>
         <Card.Title>TV Record RJ</Card.Title>
         <Card.Text><p2>RecordTV Rio é uma emissora de televisão brasileira sediada na cidade do Rio de Janeiro, capital do estado homônimo.</p2>
@@ -159,7 +159,7 @@ export default function Tvab() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" />
+      <Card.Img variant="top" src="" />
       <Card.Body>
         <Card.Title>Teste2</Card.Title>
         <Card.Text><p2></p2>
