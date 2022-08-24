@@ -280,6 +280,7 @@ import Opredadora from './components/pages/Opredadora';
 import Thewd from './components/pages/Thewd';
 import Recordrj from './components/pages/Recordrj';
 import Topgun from './components/pages/Topgun';
+import Osalvador from './components/pages/Osalvador';
 
 
 
@@ -569,6 +570,7 @@ function App() {
         <Route path='/1402' component={Thewd} />
         <Route path='/recordrj' component={Recordrj} />
         <Route path='/361743' component={Topgun} />
+        <Route path='/303021' component={Osalvador} />
 
  
 
