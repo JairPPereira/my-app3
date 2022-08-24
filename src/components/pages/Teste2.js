@@ -8,7 +8,7 @@ class Teste2 extends Component {
     player = {}
     state = {
         video: {
-            src: "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1775737946.m3u8",
+            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8",
 
             poster: ""
         }

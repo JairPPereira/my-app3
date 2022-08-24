@@ -156,6 +156,20 @@ export default function Tvab() {
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" />
+      <Card.Body>
+        <Card.Title>Teste2</Card.Title>
+        <Card.Text><p2></p2>
+        </Card.Text>
+        <Link to="./Teste2"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
 
 
     <p></p>
