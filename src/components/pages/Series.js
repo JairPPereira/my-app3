@@ -45,6 +45,18 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/syH5iXKaLEiTEgF1ffF8OJUbCaS.jpg" />
+      <Card.Body>
+        <Card.Title>Um Maluco no Pedaço (1990)</Card.Title>
+        <Link to="../Ummaluconp"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lQmJRW6vwKSAROylB3JrrGJGccj.jpg" />
       <Card.Body>
         <Card.Title>Turma da Mônica (2022)</Card.Title>
