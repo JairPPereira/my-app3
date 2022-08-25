@@ -281,6 +281,7 @@ import Thewd from './components/pages/Thewd';
 import Recordrj from './components/pages/Recordrj';
 import Topgun from './components/pages/Topgun';
 import Osalvador from './components/pages/Osalvador';
+import Obsessao from './components/pages/Obsessao';
 
 
 
@@ -571,6 +572,7 @@ function App() {
         <Route path='/recordrj' component={Recordrj} />
         <Route path='/361743' component={Topgun} />
         <Route path='/303021' component={Osalvador} />
+        <Route path='/332672' component={Obsessao} />
 
  
 
