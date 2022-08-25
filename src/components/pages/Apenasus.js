@@ -10,7 +10,7 @@ class Apenasus extends Component {
         video: {
             src: "https://video.wixstatic.com/video/e16db6_ccb7e03daf3f49389ff663d79b73c8dc/720p/mp4/file.mp4",
 
-            poster: ""
+            poster: "https://www.themoviedb.org/t/p/original/xHGTnvmrNaDLyysdvqOGKAcaNpQ.jpg"
         }
     }
  
