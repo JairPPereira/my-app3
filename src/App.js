@@ -292,6 +292,8 @@ import Ummaluconp from './components/pages2/Ummaluconp';
 import Tropadeelite from './components/pages2/Tropadeelite';
 import Tropadeelite2 from './components/pages2/Tropadeelite2';
 import Twinpeaks from './components/pages/Twinpeaks';
+import Vinhodv from './components/pages/Vinhodv';
+import Lacosdn from './components/pages/Lacosdn';
 
 
 
@@ -593,6 +595,8 @@ function App() {
         <Route path='/7347' component={Tropadeelite} />
         <Route path='/47931' component={Tropadeelite2} />
         <Route path='/twinpeaks' component={Twinpeaks} />
+        <Route path='/357110' component={Vinhodv} />
+        <Route path='/562266' component={Lacosdn} />
 
  
 
