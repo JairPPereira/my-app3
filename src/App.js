@@ -291,6 +291,7 @@ import Ossimpson from './components/pages2/Ossimpson';
 import Ummaluconp from './components/pages2/Ummaluconp';
 import Tropadeelite from './components/pages2/Tropadeelite';
 import Tropadeelite2 from './components/pages2/Tropadeelite2';
+import Twinpeaks from './components/pages/Twinpeaks';
 
 
 
@@ -591,6 +592,7 @@ function App() {
         <Route path='/ummaluconp' component={Ummaluconp} />
         <Route path='/7347' component={Tropadeelite} />
         <Route path='/47931' component={Tropadeelite2} />
+        <Route path='/twinpeaks' component={Twinpeaks} />
 
  
 
