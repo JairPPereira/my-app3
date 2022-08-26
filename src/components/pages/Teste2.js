@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
+import Button from 'react-bootstrap/Button';
 
  
 class Teste2 extends Component {
@@ -65,7 +66,10 @@ class Teste2 extends Component {
                <div className="nave">
       <nav>
       <p><br /></p>
-      <Link to="/">Home</Link>
+
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
