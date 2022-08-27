@@ -298,6 +298,7 @@ import Powerr from './components/pages/Powerr';
 import Oreidamontanha from './components/pages/Oreidamontanha';
 import Oagentemirim from './components/pages/Oagentemirim';
 import Teste3 from './components/pages/Teste3';
+import Warnertv from './components/pages/Warnertv';
 
 
 
@@ -605,6 +606,7 @@ function App() {
         <Route path='/444090' component={Oreidamontanha} />
         <Route path='/408670' component={Oagentemirim} />
         <Route path='/teste3' component={Teste3} />
+        <Route path='/warnertv' component={Warnertv} />
 
  
 
