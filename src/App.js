@@ -127,7 +127,6 @@ import Lama from './components/pages/Lama';
 import Pagandobqmt from './components/pages/Pagandobqmt';
 import Aventura from './components/pages/Aventura';
 import Gossebump2 from './components/pages/Gossebump2';
-import Aeradogelo2 from './components/pages/Aeradogelo2';
 import Tresninjas from './components/pages/Tresninjas';
 import Ocavaleirod from './components/pages/Ocavaleirod';
 import Boltsc from './components/pages/Boltsc';
@@ -272,7 +271,6 @@ import Hbof from './components/pages/Hbof';
 import Comedyc from './components/pages/Comedyc';
 import Globom from './components/pages/Globom';
 import Globosp from './components/pages/Globosp';
-import Teste2 from './components/pages/Teste2';
 import Epiphaneap from './components/pages/Epiphaneap';
 import Ajornadauvt from './components/pages/Ajornadauvt';
 import Daaz9 from './components/pages/Daaz9';
@@ -302,7 +300,6 @@ import Warnertv from './components/pages/Warnertv';
 import Anuvem from './components/pages/Anuvem';
 import Aprincesaap from './components/pages/Apricesaap';
 import Friends from './components/pages/Friends';
-import Amityvilleot from './components/pages/Amityvilleot';
 import Euronews from './components/pages/Euronews';
 import Parttk from './components/pages/Parttk';
 
@@ -466,7 +463,6 @@ function App() {
         <Route path='/10358' component={Pagandobqmt} />
         <Route path='/aventura' component={Aventura} />
         <Route path='/gossebump2' component={Gossebump2} />
-        <Route path='/950' component={Aeradogelo2} />
         <Route path='/40508' component={Tresninjas} />
         <Route path='/523366' component={Ocavaleirod} />
         <Route path='/13053' component={Boltsc} />
@@ -587,7 +583,6 @@ function App() {
         <Route path='/comedyc' component={Comedyc} />
         <Route path='/68202' component={Cadeoh} />
         <Route path='/228968' component={Jogadadm} />
-        <Route path='/teste2' component={Teste2} />
         <Route path='/664474' component={Epiphaneap} />
         <Route path='/45767' component={Ajornadauvt} />
         <Route path='/766507' component={Opredadora} />
@@ -616,7 +611,7 @@ function App() {
         <Route path='/661930' component={Anuvem} />
         <Route path='/785533' component={Aprincesaap} />
         <Route path='/friends' component={Friends} />
-        <Route path='/410537' component={Amityvilleot} />
+
         <Route path='/euronews' component={Euronews} />
         <Route path='/parttk' component={Parttk} />
 
