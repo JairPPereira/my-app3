@@ -5,11 +5,12 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Link } from 'react-router-dom';
+import Button from 'react-bootstrap/Button';
 
 
 
  
-class Teste2 extends Component {
+class Amityvilleot extends Component {
     constructor() {
         super();
         
@@ -19,7 +20,7 @@ class Teste2 extends Component {
       }
     
       componentDidMount(){
-        let url = "https://ottvsmediaservice.ottvs.com.br/f7b18088-1ab3-4e83-8bf0-781692c29319/0271676_movie.ism/QualityLevels(3599836)/Fragments(video=479645833,format=mpd-time-csf)";
+        let url = "https://vod.provider.plex.tv/library/parts/6298859736001-dash.mpd?X-Plex-Session-Identifier=qwyte7twakn8jnq9scv7mid1&X-Plex-Product=Plex%20Web&X-Plex-Version=4.89.1&X-Plex-Client-Identifier=d0yzzrm42oucmj03766m2cfs&X-Plex-Platform=Chrome&X-Plex-Platform-Version=32.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x1780%2C320x712&X-Plex-Token=EKXrK4UGPTk2os736AYM&X-Plex-Language=pt-BR&Accept-Language=pt-BR";
         let player = dashjs.MediaPlayer().create();
         player.initialize(document.querySelector("#videoPlayer"), url, true);
       }
@@ -36,7 +37,10 @@ class Teste2 extends Component {
       
     <nav>
       <p><br /></p>
-      <Link to="/">Home</Link>
+ 
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
@@ -49,4 +53,4 @@ class Teste2 extends Component {
 }
 
 
-export default Teste2;
+export default Amityvilleot;
